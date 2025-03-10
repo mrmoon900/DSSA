@@ -1,0 +1,1701 @@
+2024-11-22 19:31:24,812 - root - INFO - Loading datasets...
+2024-11-22 19:31:24,813 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: '/data4t/Qahtan/GTSA/data/dataset.csv'
+2024-11-22 19:31:24,841 - root - INFO - Training session ended.
+2024-11-22 19:31:41,582 - root - INFO - Loading datasets...
+2024-11-22 19:31:43,401 - root - INFO - Data loaded successfully:
+2024-11-22 19:31:43,401 - root - INFO - Number of node features: 12
+2024-11-22 19:31:43,401 - root - INFO - Number of edge features: 5
+2024-11-22 19:31:43,401 - root - INFO - Number of node types: 13
+2024-11-22 19:31:43,401 - root - INFO - Number of edge types: 5
+2024-11-22 19:31:43,401 - root - INFO - Creating dataloaders...
+2024-11-22 19:31:43,410 - root - INFO - Created train loader with 640000 samples
+2024-11-22 19:31:43,410 - root - INFO - Created val loader with 80000 samples
+2024-11-22 19:31:43,410 - root - INFO - Created test loader with 80000 samples
+2024-11-22 19:31:43,410 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 19:31:43,411 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 19:31:43,411 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 19:31:43,411 - root - INFO - Dataloaders created successfully
+2024-11-22 19:31:43,590 - root - ERROR - Error in main execution: input_dim must be divisible by num_heads
+2024-11-22 19:31:43,591 - root - INFO - Training session ended.
+2024-11-22 20:51:59,071 - root - INFO - Loading datasets...
+2024-11-22 20:52:00,360 - root - INFO - Data loaded successfully:
+2024-11-22 20:52:00,360 - root - INFO - Number of node features: 12
+2024-11-22 20:52:00,360 - root - INFO - Number of edge features: 5
+2024-11-22 20:52:00,360 - root - INFO - Number of node types: 13
+2024-11-22 20:52:00,360 - root - INFO - Number of edge types: 5
+2024-11-22 20:52:00,360 - root - INFO - Creating dataloaders...
+2024-11-22 20:52:00,361 - root - INFO - Created train loader with 640000 samples
+2024-11-22 20:52:00,361 - root - INFO - Created val loader with 80000 samples
+2024-11-22 20:52:00,361 - root - INFO - Created test loader with 80000 samples
+2024-11-22 20:52:00,361 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 20:52:00,361 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 20:52:00,361 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 20:52:00,361 - root - INFO - Dataloaders created successfully
+2024-11-22 21:19:49,634 - root - INFO - Loading datasets...
+2024-11-22 21:19:51,152 - root - INFO - Data loaded successfully:
+2024-11-22 21:19:51,152 - root - INFO - Number of node features: 12
+2024-11-22 21:19:51,152 - root - INFO - Number of edge features: 5
+2024-11-22 21:19:51,152 - root - INFO - Number of node types: 13
+2024-11-22 21:19:51,152 - root - INFO - Number of edge types: 5
+2024-11-22 21:19:51,152 - root - INFO - Creating dataloaders...
+2024-11-22 21:19:51,153 - root - INFO - Created train loader with 640000 samples
+2024-11-22 21:19:51,153 - root - INFO - Created val loader with 80000 samples
+2024-11-22 21:19:51,153 - root - INFO - Created test loader with 80000 samples
+2024-11-22 21:19:51,153 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 21:19:51,153 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 21:19:51,153 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 21:19:51,153 - root - INFO - Dataloaders created successfully
+2024-11-22 21:19:51,249 - root - ERROR - Error in main execution: name 'DenseGraphTransformerLayer' is not defined
+2024-11-22 21:19:51,251 - root - INFO - Training session ended.
+2024-11-22 21:43:48,221 - root - INFO - Loading datasets...
+2024-11-22 21:43:49,506 - root - INFO - Data loaded successfully:
+2024-11-22 21:43:49,507 - root - INFO - Number of node features: 12
+2024-11-22 21:43:49,507 - root - INFO - Number of edge features: 5
+2024-11-22 21:43:49,507 - root - INFO - Number of node types: 13
+2024-11-22 21:43:49,507 - root - INFO - Number of edge types: 5
+2024-11-22 21:43:49,507 - root - INFO - Creating dataloaders...
+2024-11-22 21:43:49,507 - root - INFO - Created train loader with 640000 samples
+2024-11-22 21:43:49,507 - root - INFO - Created val loader with 80000 samples
+2024-11-22 21:43:49,507 - root - INFO - Created test loader with 80000 samples
+2024-11-22 21:43:49,507 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 21:43:49,507 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 21:43:49,507 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 21:43:49,507 - root - INFO - Dataloaders created successfully
+2024-11-22 21:43:49,509 - root - ERROR - Error in main execution: name 'EnhancedGraphTransformerLayer' is not defined
+2024-11-22 21:43:49,511 - root - INFO - Training session ended.
+2024-11-22 22:27:04,140 - root - INFO - Loading datasets...
+2024-11-22 22:27:05,443 - root - INFO - Data loaded successfully:
+2024-11-22 22:27:05,443 - root - INFO - Number of node features: 12
+2024-11-22 22:27:05,443 - root - INFO - Number of edge features: 5
+2024-11-22 22:27:05,443 - root - INFO - Number of node types: 13
+2024-11-22 22:27:05,443 - root - INFO - Number of edge types: 5
+2024-11-22 22:27:05,443 - root - INFO - Creating dataloaders...
+2024-11-22 22:27:05,444 - root - INFO - Created train loader with 640000 samples
+2024-11-22 22:27:05,444 - root - INFO - Created val loader with 80000 samples
+2024-11-22 22:27:05,444 - root - INFO - Created test loader with 80000 samples
+2024-11-22 22:27:05,444 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 22:27:05,444 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 22:27:05,445 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 22:27:05,445 - root - INFO - Dataloaders created successfully
+2024-11-22 22:27:05,446 - root - ERROR - Error in main execution: name 'EnhancedGraphTransformerLayer' is not defined
+2024-11-22 22:27:05,448 - root - INFO - Training session ended.
+2024-11-22 22:28:20,490 - root - INFO - Loading datasets...
+2024-11-22 22:28:21,779 - root - INFO - Data loaded successfully:
+2024-11-22 22:28:21,779 - root - INFO - Number of node features: 12
+2024-11-22 22:28:21,779 - root - INFO - Number of edge features: 5
+2024-11-22 22:28:21,779 - root - INFO - Number of node types: 13
+2024-11-22 22:28:21,779 - root - INFO - Number of edge types: 5
+2024-11-22 22:28:21,779 - root - INFO - Creating dataloaders...
+2024-11-22 22:28:21,780 - root - INFO - Created train loader with 640000 samples
+2024-11-22 22:28:21,780 - root - INFO - Created val loader with 80000 samples
+2024-11-22 22:28:21,780 - root - INFO - Created test loader with 80000 samples
+2024-11-22 22:28:21,780 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 22:28:21,780 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 22:28:21,780 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 22:28:21,780 - root - INFO - Dataloaders created successfully
+2024-11-22 22:28:21,782 - root - ERROR - Error in main execution: DenseGraphTransformerLayer.__init__() got an unexpected keyword argument 'use_gate'
+2024-11-22 22:28:21,783 - root - INFO - Training session ended.
+2024-11-22 22:30:36,286 - root - INFO - Loading datasets...
+2024-11-22 22:30:37,599 - root - INFO - Data loaded successfully:
+2024-11-22 22:30:37,599 - root - INFO - Number of node features: 12
+2024-11-22 22:30:37,599 - root - INFO - Number of edge features: 5
+2024-11-22 22:30:37,599 - root - INFO - Number of node types: 13
+2024-11-22 22:30:37,599 - root - INFO - Number of edge types: 5
+2024-11-22 22:30:37,599 - root - INFO - Creating dataloaders...
+2024-11-22 22:30:37,599 - root - INFO - Created train loader with 640000 samples
+2024-11-22 22:30:37,599 - root - INFO - Created val loader with 80000 samples
+2024-11-22 22:30:37,599 - root - INFO - Created test loader with 80000 samples
+2024-11-22 22:30:37,599 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 22:30:37,599 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 22:30:37,599 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 22:30:37,599 - root - INFO - Dataloaders created successfully
+2024-11-22 22:30:37,601 - root - ERROR - Error in main execution: DenseGraphTransformerLayer.__init__() got an unexpected keyword argument 'use_gate'
+2024-11-22 22:30:37,601 - root - INFO - Training session ended.
+2024-11-22 22:35:31,290 - root - INFO - Loading datasets...
+2024-11-22 22:35:32,825 - root - INFO - Data loaded successfully:
+2024-11-22 22:35:32,825 - root - INFO - Number of node features: 12
+2024-11-22 22:35:32,825 - root - INFO - Number of edge features: 5
+2024-11-22 22:35:32,825 - root - INFO - Number of node types: 13
+2024-11-22 22:35:32,825 - root - INFO - Number of edge types: 5
+2024-11-22 22:35:32,825 - root - INFO - Creating dataloaders...
+2024-11-22 22:35:32,825 - root - INFO - Created train loader with 640000 samples
+2024-11-22 22:35:32,825 - root - INFO - Created val loader with 80000 samples
+2024-11-22 22:35:32,825 - root - INFO - Created test loader with 80000 samples
+2024-11-22 22:35:32,825 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 22:35:32,825 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 22:35:32,825 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 22:35:32,825 - root - INFO - Dataloaders created successfully
+2024-11-22 22:35:32,827 - root - ERROR - Error in main execution: name 'EnhancedGraphTransformerLayer' is not defined
+2024-11-22 22:35:32,829 - root - INFO - Training session ended.
+2024-11-22 22:39:41,578 - root - INFO - Loading datasets...
+2024-11-22 22:39:43,123 - root - INFO - Data loaded successfully:
+2024-11-22 22:39:43,123 - root - INFO - Number of node features: 12
+2024-11-22 22:39:43,123 - root - INFO - Number of edge features: 5
+2024-11-22 22:39:43,123 - root - INFO - Number of node types: 13
+2024-11-22 22:39:43,123 - root - INFO - Number of edge types: 5
+2024-11-22 22:39:43,123 - root - INFO - Creating dataloaders...
+2024-11-22 22:39:43,124 - root - INFO - Created train loader with 640000 samples
+2024-11-22 22:39:43,124 - root - INFO - Created val loader with 80000 samples
+2024-11-22 22:39:43,124 - root - INFO - Created test loader with 80000 samples
+2024-11-22 22:39:43,124 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 22:39:43,124 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 22:39:43,124 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 22:39:43,124 - root - INFO - Dataloaders created successfully
+2024-11-22 22:40:06,670 - root - ERROR - Error in main execution: Target size (torch.Size([256])) must be the same as input size (torch.Size([32768]))
+2024-11-22 22:40:06,678 - root - INFO - Training session ended.
+2024-11-22 22:43:04,575 - root - INFO - Loading datasets...
+2024-11-22 22:43:06,117 - root - INFO - Data loaded successfully:
+2024-11-22 22:43:06,117 - root - INFO - Number of node features: 12
+2024-11-22 22:43:06,118 - root - INFO - Number of edge features: 5
+2024-11-22 22:43:06,118 - root - INFO - Number of node types: 13
+2024-11-22 22:43:06,118 - root - INFO - Number of edge types: 5
+2024-11-22 22:43:06,118 - root - INFO - Creating dataloaders...
+2024-11-22 22:43:06,118 - root - INFO - Created train loader with 640000 samples
+2024-11-22 22:43:06,118 - root - INFO - Created val loader with 80000 samples
+2024-11-22 22:43:06,118 - root - INFO - Created test loader with 80000 samples
+2024-11-22 22:43:06,118 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-22 22:43:06,118 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-22 22:43:06,118 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-22 22:43:06,118 - root - INFO - Dataloaders created successfully
+2024-11-24 11:34:48,287 - root - INFO - Loading datasets...
+2024-11-24 11:34:49,618 - root - INFO - Data loaded successfully:
+2024-11-24 11:34:49,618 - root - INFO - Number of node features: 12
+2024-11-24 11:34:49,618 - root - INFO - Number of edge features: 5
+2024-11-24 11:34:49,618 - root - INFO - Number of node types: 13
+2024-11-24 11:34:49,618 - root - INFO - Number of edge types: 5
+2024-11-24 11:34:49,618 - root - INFO - Creating dataloaders...
+2024-11-24 11:34:49,618 - root - INFO - Created train loader with 640000 samples
+2024-11-24 11:34:49,618 - root - INFO - Created val loader with 80000 samples
+2024-11-24 11:34:49,618 - root - INFO - Created test loader with 80000 samples
+2024-11-24 11:34:49,618 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-24 11:34:49,618 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-24 11:34:49,618 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-24 11:34:49,618 - root - INFO - Dataloaders created successfully
+2024-11-24 11:34:49,618 - root - ERROR - Error in main execution: KnowledgeAwareGraphTransformer.__init__() got an unexpected keyword argument 'use_gate'
+2024-11-24 11:34:49,618 - root - INFO - Training session ended.
+2024-11-24 11:36:10,714 - root - INFO - Loading datasets...
+2024-11-24 11:36:12,021 - root - INFO - Data loaded successfully:
+2024-11-24 11:36:12,021 - root - INFO - Number of node features: 12
+2024-11-24 11:36:12,021 - root - INFO - Number of edge features: 5
+2024-11-24 11:36:12,021 - root - INFO - Number of node types: 13
+2024-11-24 11:36:12,022 - root - INFO - Number of edge types: 5
+2024-11-24 11:36:12,022 - root - INFO - Creating dataloaders...
+2024-11-24 11:36:12,022 - root - INFO - Created train loader with 640000 samples
+2024-11-24 11:36:12,022 - root - INFO - Created val loader with 80000 samples
+2024-11-24 11:36:12,022 - root - INFO - Created test loader with 80000 samples
+2024-11-24 11:36:12,022 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-24 11:36:12,022 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-24 11:36:12,022 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-24 11:36:12,022 - root - INFO - Dataloaders created successfully
+2024-11-28 07:33:54,604 - root - INFO - Loading datasets...
+2024-11-28 07:33:56,019 - root - INFO - Data loaded successfully:
+2024-11-28 07:33:56,019 - root - INFO - Number of node features: 12
+2024-11-28 07:33:56,019 - root - INFO - Number of edge features: 5
+2024-11-28 07:33:56,019 - root - INFO - Number of node types: 13
+2024-11-28 07:33:56,019 - root - INFO - Number of edge types: 5
+2024-11-28 07:33:56,019 - root - INFO - Creating dataloaders...
+2024-11-28 07:33:56,020 - root - INFO - Created train loader with 640000 samples
+2024-11-28 07:33:56,020 - root - INFO - Created val loader with 80000 samples
+2024-11-28 07:33:56,020 - root - INFO - Created test loader with 80000 samples
+2024-11-28 07:33:56,020 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 07:33:56,020 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 07:33:56,020 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 07:33:56,020 - root - INFO - Dataloaders created successfully
+2024-11-28 07:33:56,206 - root - ERROR - Error in main execution: 'KnowledgeAwareGraphTransformer' object has no attribute 'reset_parameters'
+2024-11-28 07:33:56,209 - root - INFO - Training session ended.
+2024-11-28 07:37:21,545 - root - INFO - Loading datasets...
+2024-11-28 07:37:22,854 - root - INFO - Data loaded successfully:
+2024-11-28 07:37:22,855 - root - INFO - Number of node features: 12
+2024-11-28 07:37:22,855 - root - INFO - Number of edge features: 5
+2024-11-28 07:37:22,855 - root - INFO - Number of node types: 13
+2024-11-28 07:37:22,855 - root - INFO - Number of edge types: 5
+2024-11-28 07:37:22,855 - root - INFO - Creating dataloaders...
+2024-11-28 07:37:22,855 - root - INFO - Created train loader with 640000 samples
+2024-11-28 07:37:22,855 - root - INFO - Created val loader with 80000 samples
+2024-11-28 07:37:22,855 - root - INFO - Created test loader with 80000 samples
+2024-11-28 07:37:22,855 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 07:37:22,856 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 07:37:22,856 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 07:37:22,856 - root - INFO - Dataloaders created successfully
+2024-11-28 07:37:42,022 - root - ERROR - Error in main execution: scatter_mean() got an unexpected keyword argument 'dim'
+2024-11-28 07:37:42,031 - root - INFO - Training session ended.
+2024-11-28 07:41:01,481 - root - INFO - Loading datasets...
+2024-11-28 07:41:02,800 - root - INFO - Data loaded successfully:
+2024-11-28 07:41:02,800 - root - INFO - Number of node features: 12
+2024-11-28 07:41:02,800 - root - INFO - Number of edge features: 5
+2024-11-28 07:41:02,800 - root - INFO - Number of node types: 13
+2024-11-28 07:41:02,800 - root - INFO - Number of edge types: 5
+2024-11-28 07:41:02,800 - root - INFO - Creating dataloaders...
+2024-11-28 07:41:02,801 - root - INFO - Created train loader with 640000 samples
+2024-11-28 07:41:02,801 - root - INFO - Created val loader with 80000 samples
+2024-11-28 07:41:02,801 - root - INFO - Created test loader with 80000 samples
+2024-11-28 07:41:02,801 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 07:41:02,801 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 07:41:02,802 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 07:41:02,802 - root - INFO - Dataloaders created successfully
+2024-11-28 07:48:31,794 - root - INFO - Loading datasets...
+2024-11-28 07:48:33,112 - root - INFO - Data loaded successfully:
+2024-11-28 07:48:33,112 - root - INFO - Number of node features: 12
+2024-11-28 07:48:33,112 - root - INFO - Number of edge features: 5
+2024-11-28 07:48:33,112 - root - INFO - Number of node types: 13
+2024-11-28 07:48:33,112 - root - INFO - Number of edge types: 5
+2024-11-28 07:48:33,112 - root - INFO - Creating dataloaders...
+2024-11-28 07:48:33,112 - root - INFO - Created train loader with 640000 samples
+2024-11-28 07:48:33,113 - root - INFO - Created val loader with 80000 samples
+2024-11-28 07:48:33,113 - root - INFO - Created test loader with 80000 samples
+2024-11-28 07:48:33,113 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 07:48:33,113 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 07:48:33,113 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 07:48:33,113 - root - INFO - Dataloaders created successfully
+2024-11-28 07:48:33,113 - root - ERROR - Error in main execution: KnowledgeAwareGraphTransformer.__init__() got an unexpected keyword argument 'in_dim'
+2024-11-28 07:48:33,114 - root - INFO - Training session ended.
+2024-11-28 07:53:54,214 - root - INFO - Loading datasets...
+2024-11-28 07:53:55,516 - root - INFO - Data loaded successfully:
+2024-11-28 07:53:55,516 - root - INFO - Number of node features: 12
+2024-11-28 07:53:55,516 - root - INFO - Number of edge features: 5
+2024-11-28 07:53:55,516 - root - INFO - Number of node types: 13
+2024-11-28 07:53:55,517 - root - INFO - Number of edge types: 5
+2024-11-28 07:53:55,517 - root - INFO - Creating dataloaders...
+2024-11-28 07:53:55,517 - root - INFO - Created train loader with 640000 samples
+2024-11-28 07:53:55,517 - root - INFO - Created val loader with 80000 samples
+2024-11-28 07:53:55,517 - root - INFO - Created test loader with 80000 samples
+2024-11-28 07:53:55,517 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 07:53:55,517 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 07:53:55,517 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 07:53:55,517 - root - INFO - Dataloaders created successfully
+2024-11-28 07:54:14,906 - root - ERROR - Error in main execution: 'NoneType' object is not iterable
+2024-11-28 07:54:14,906 - root - INFO - Training session ended.
+2024-11-28 08:01:40,368 - root - INFO - Loading datasets...
+2024-11-28 08:01:41,703 - root - INFO - Data loaded successfully:
+2024-11-28 08:01:41,703 - root - INFO - Number of node features: 12
+2024-11-28 08:01:41,703 - root - INFO - Number of edge features: 5
+2024-11-28 08:01:41,704 - root - INFO - Number of node types: 13
+2024-11-28 08:01:41,704 - root - INFO - Number of edge types: 5
+2024-11-28 08:01:41,704 - root - INFO - Creating dataloaders...
+2024-11-28 08:01:41,704 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:01:41,704 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:01:41,704 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:01:41,705 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:01:41,705 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:01:41,705 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:01:41,705 - root - INFO - Dataloaders created successfully
+2024-11-28 08:01:41,788 - root - ERROR - Error in main execution: 'EnhancedGraphPooling' object has no attribute 'init_parameters'
+2024-11-28 08:01:41,791 - root - INFO - Training session ended.
+2024-11-28 08:03:35,325 - root - INFO - Loading datasets...
+2024-11-28 08:03:36,681 - root - INFO - Data loaded successfully:
+2024-11-28 08:03:36,681 - root - INFO - Number of node features: 12
+2024-11-28 08:03:36,681 - root - INFO - Number of edge features: 5
+2024-11-28 08:03:36,681 - root - INFO - Number of node types: 13
+2024-11-28 08:03:36,681 - root - INFO - Number of edge types: 5
+2024-11-28 08:03:36,681 - root - INFO - Creating dataloaders...
+2024-11-28 08:03:36,682 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:03:36,682 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:03:36,682 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:03:36,682 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:03:36,682 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:03:36,682 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:03:36,682 - root - INFO - Dataloaders created successfully
+2024-11-28 08:05:19,703 - root - INFO - Loading datasets...
+2024-11-28 08:05:21,233 - root - INFO - Data loaded successfully:
+2024-11-28 08:05:21,234 - root - INFO - Number of node features: 12
+2024-11-28 08:05:21,234 - root - INFO - Number of edge features: 5
+2024-11-28 08:05:21,234 - root - INFO - Number of node types: 13
+2024-11-28 08:05:21,234 - root - INFO - Number of edge types: 5
+2024-11-28 08:05:21,234 - root - INFO - Creating dataloaders...
+2024-11-28 08:05:21,234 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:05:21,234 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:05:21,234 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:05:21,234 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:05:21,234 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:05:21,235 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:05:21,235 - root - INFO - Dataloaders created successfully
+2024-11-28 08:06:45,792 - root - INFO - Loading datasets...
+2024-11-28 08:06:47,296 - root - INFO - Data loaded successfully:
+2024-11-28 08:06:47,296 - root - INFO - Number of node features: 12
+2024-11-28 08:06:47,296 - root - INFO - Number of edge features: 5
+2024-11-28 08:06:47,296 - root - INFO - Number of node types: 13
+2024-11-28 08:06:47,296 - root - INFO - Number of edge types: 5
+2024-11-28 08:06:47,296 - root - INFO - Creating dataloaders...
+2024-11-28 08:06:47,296 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:06:47,296 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:06:47,296 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:06:47,296 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:06:47,296 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:06:47,297 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:06:47,297 - root - INFO - Dataloaders created successfully
+2024-11-28 08:09:25,654 - root - INFO - Loading datasets...
+2024-11-28 08:09:26,997 - root - INFO - Data loaded successfully:
+2024-11-28 08:09:26,997 - root - INFO - Number of node features: 12
+2024-11-28 08:09:26,997 - root - INFO - Number of edge features: 5
+2024-11-28 08:09:26,997 - root - INFO - Number of node types: 13
+2024-11-28 08:09:26,997 - root - INFO - Number of edge types: 5
+2024-11-28 08:09:26,997 - root - INFO - Creating dataloaders...
+2024-11-28 08:09:26,997 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:09:26,998 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:09:26,998 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:09:26,998 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:09:26,998 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:09:26,998 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:09:26,998 - root - INFO - Dataloaders created successfully
+2024-11-28 08:11:37,526 - root - INFO - Loading datasets...
+2024-11-28 08:11:38,858 - root - INFO - Data loaded successfully:
+2024-11-28 08:11:38,859 - root - INFO - Number of node features: 12
+2024-11-28 08:11:38,859 - root - INFO - Number of edge features: 5
+2024-11-28 08:11:38,859 - root - INFO - Number of node types: 13
+2024-11-28 08:11:38,859 - root - INFO - Number of edge types: 5
+2024-11-28 08:11:38,859 - root - INFO - Creating dataloaders...
+2024-11-28 08:11:38,859 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:11:38,859 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:11:38,859 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:11:38,859 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:11:38,859 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:11:38,859 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:11:38,860 - root - INFO - Dataloaders created successfully
+2024-11-28 08:35:47,038 - root - INFO - Loading datasets...
+2024-11-28 08:35:47,038 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: '/data4t/Qahtan/GTSA/data/dataset.csv'
+2024-11-28 08:35:47,059 - root - INFO - Training session ended.
+2024-11-28 08:36:01,275 - root - INFO - Loading datasets...
+2024-11-28 08:36:02,587 - root - INFO - Data loaded successfully:
+2024-11-28 08:36:02,588 - root - INFO - Number of node features: 12
+2024-11-28 08:36:02,588 - root - INFO - Number of edge features: 5
+2024-11-28 08:36:02,588 - root - INFO - Number of node types: 13
+2024-11-28 08:36:02,588 - root - INFO - Number of edge types: 5
+2024-11-28 08:36:02,588 - root - INFO - Creating dataloaders...
+2024-11-28 08:36:02,588 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:36:02,588 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:36:02,588 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:36:02,589 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:36:02,589 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:36:02,589 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:36:02,589 - root - INFO - Dataloaders created successfully
+2024-11-28 08:36:02,727 - root - ERROR - Error in main execution: '<=' not supported between instances of 'NoneType' and 'int'
+2024-11-28 08:36:02,728 - root - INFO - Training session ended.
+2024-11-28 08:38:11,800 - root - INFO - Loading datasets...
+2024-11-28 08:38:13,132 - root - INFO - Data loaded successfully:
+2024-11-28 08:38:13,132 - root - INFO - Number of node features: 12
+2024-11-28 08:38:13,132 - root - INFO - Number of edge features: 5
+2024-11-28 08:38:13,132 - root - INFO - Number of node types: 13
+2024-11-28 08:38:13,133 - root - INFO - Number of edge types: 5
+2024-11-28 08:38:13,133 - root - INFO - Creating dataloaders...
+2024-11-28 08:38:13,133 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:38:13,133 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:38:13,133 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:38:13,134 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:38:13,134 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:38:13,134 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:38:13,134 - root - INFO - Dataloaders created successfully
+2024-11-28 08:42:58,723 - root - INFO - Loading datasets...
+2024-11-28 08:43:00,034 - root - INFO - Data loaded successfully:
+2024-11-28 08:43:00,035 - root - INFO - Number of node features: 12
+2024-11-28 08:43:00,035 - root - INFO - Number of edge features: 5
+2024-11-28 08:43:00,035 - root - INFO - Number of node types: 13
+2024-11-28 08:43:00,035 - root - INFO - Number of edge types: 5
+2024-11-28 08:43:00,035 - root - INFO - Creating dataloaders...
+2024-11-28 08:43:00,035 - root - INFO - Created train loader with 640000 samples
+2024-11-28 08:43:00,035 - root - INFO - Created val loader with 80000 samples
+2024-11-28 08:43:00,035 - root - INFO - Created test loader with 80000 samples
+2024-11-28 08:43:00,035 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-28 08:43:00,035 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-28 08:43:00,035 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-28 08:43:00,035 - root - INFO - Dataloaders created successfully
+2024-11-29 11:09:29,730 - root - INFO - Loading datasets...
+2024-11-29 11:09:31,354 - root - INFO - Data loaded successfully:
+2024-11-29 11:09:31,355 - root - INFO - Number of node features: 12
+2024-11-29 11:09:31,355 - root - INFO - Number of edge features: 5
+2024-11-29 11:09:31,355 - root - INFO - Number of node types: 13
+2024-11-29 11:09:31,355 - root - INFO - Number of edge types: 5
+2024-11-29 11:09:31,355 - root - INFO - Creating dataloaders...
+2024-11-29 11:09:31,355 - root - INFO - Created train loader with 640000 samples
+2024-11-29 11:09:31,355 - root - INFO - Created val loader with 80000 samples
+2024-11-29 11:09:31,355 - root - INFO - Created test loader with 80000 samples
+2024-11-29 11:09:31,356 - root - INFO - Created ts1 loader with 7162 samples
+2024-11-29 11:09:31,356 - root - INFO - Created ts2 loader with 30348 samples
+2024-11-29 11:09:31,356 - root - INFO - Created ts3 loader with 1800 samples
+2024-11-29 11:09:31,356 - root - INFO - Dataloaders created successfully
+2024-12-02 12:10:17,252 - root - INFO - Loading datasets...
+2024-12-02 12:10:18,711 - root - INFO - Data loaded successfully:
+2024-12-02 12:10:18,711 - root - INFO - Number of node features: 12
+2024-12-02 12:10:18,711 - root - INFO - Number of edge features: 5
+2024-12-02 12:10:18,711 - root - INFO - Number of node types: 13
+2024-12-02 12:10:18,711 - root - INFO - Number of edge types: 5
+2024-12-02 12:10:18,711 - root - INFO - Creating dataloaders...
+2024-12-02 12:10:18,711 - root - INFO - Created train loader with 640000 samples
+2024-12-02 12:10:18,712 - root - INFO - Created val loader with 80000 samples
+2024-12-02 12:10:18,712 - root - INFO - Created test loader with 80000 samples
+2024-12-02 12:10:18,712 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-02 12:10:18,712 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-02 12:10:18,712 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-02 12:10:18,712 - root - INFO - Dataloaders created successfully
+2024-12-12 13:35:22,683 - root - INFO - Loading datasets...
+2024-12-12 13:35:32,280 - root - INFO - Data loaded successfully:
+2024-12-12 13:35:32,280 - root - INFO - Number of node features: 12
+2024-12-12 13:35:32,280 - root - INFO - Number of edge features: 5
+2024-12-12 13:35:32,280 - root - INFO - Number of node types: 13
+2024-12-12 13:35:32,280 - root - INFO - Number of edge types: 5
+2024-12-12 13:35:32,280 - root - INFO - Creating dataloaders...
+2024-12-12 13:35:32,280 - root - INFO - Created train loader with 640000 samples
+2024-12-12 13:35:32,281 - root - INFO - Created val loader with 80000 samples
+2024-12-12 13:35:32,281 - root - INFO - Created test loader with 80000 samples
+2024-12-12 13:35:32,281 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-12 13:35:32,281 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-12 13:35:32,281 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-12 13:35:32,281 - root - INFO - Dataloaders created successfully
+2024-12-12 13:42:24,390 - root - INFO - Loading datasets...
+2024-12-12 13:42:28,401 - root - INFO - Data loaded successfully:
+2024-12-12 13:42:28,403 - root - INFO - Number of node features: 12
+2024-12-12 13:42:28,403 - root - INFO - Number of edge features: 5
+2024-12-12 13:42:28,403 - root - INFO - Number of node types: 13
+2024-12-12 13:42:28,403 - root - INFO - Number of edge types: 5
+2024-12-12 13:42:28,403 - root - INFO - Creating dataloaders...
+2024-12-12 13:42:28,403 - root - INFO - Created train loader with 640000 samples
+2024-12-12 13:42:28,403 - root - INFO - Created val loader with 80000 samples
+2024-12-12 13:42:28,403 - root - INFO - Created test loader with 80000 samples
+2024-12-12 13:42:28,403 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-12 13:42:28,403 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-12 13:42:28,403 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-12 13:42:28,403 - root - INFO - Dataloaders created successfully
+2024-12-12 13:43:48,036 - root - INFO - Loading datasets...
+2024-12-12 13:43:52,824 - root - INFO - Data loaded successfully:
+2024-12-12 13:43:52,824 - root - INFO - Number of node features: 12
+2024-12-12 13:43:52,824 - root - INFO - Number of edge features: 5
+2024-12-12 13:43:52,824 - root - INFO - Number of node types: 13
+2024-12-12 13:43:52,824 - root - INFO - Number of edge types: 5
+2024-12-12 13:43:52,824 - root - INFO - Creating dataloaders...
+2024-12-12 13:43:52,824 - root - INFO - Created train loader with 640000 samples
+2024-12-12 13:43:52,825 - root - INFO - Created val loader with 80000 samples
+2024-12-12 13:43:52,825 - root - INFO - Created test loader with 80000 samples
+2024-12-12 13:43:52,825 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-12 13:43:52,825 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-12 13:43:52,825 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-12 13:43:52,825 - root - INFO - Dataloaders created successfully
+2024-12-12 13:44:10,866 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:10,868 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:10,869 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:10,872 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,105 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,107 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,147 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,149 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,354 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,356 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,411 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,412 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,610 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,612 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,673 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,674 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,871 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,872 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,917 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:11,919 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,134 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,135 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,179 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,180 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,380 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,382 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,441 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,443 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,657 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,658 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,716 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,717 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,902 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,915 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,992 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:12,993 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,202 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,203 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,273 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,274 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,450 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,451 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,542 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,543 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,718 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,719 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,811 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:13,813 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,011 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,013 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,079 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,080 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,301 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,303 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,382 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,383 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,574 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,575 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,660 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,661 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,836 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,838 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,921 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:14,923 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,101 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,102 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,205 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,206 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,379 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,380 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,473 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,474 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,642 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,644 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,751 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,752 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,911 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:15,914 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,006 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,007 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,173 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,174 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,296 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,297 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,449 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,450 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,572 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,573 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,706 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,708 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,838 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,839 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,984 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:16,985 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,103 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,104 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,253 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,259 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,393 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,394 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,527 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,531 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,671 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,672 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,802 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,817 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,953 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:17,954 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,059 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,091 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,218 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,219 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,334 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,359 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,490 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,491 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,599 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,618 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,784 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,785 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,870 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:18,920 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,060 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,061 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,127 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,206 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,352 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,353 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,406 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,470 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,631 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,633 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,677 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,766 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,902 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,903 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:19,952 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,033 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,204 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,205 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,216 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,322 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,475 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,476 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,495 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,589 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,771 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,772 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,792 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:20,860 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,052 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,053 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,073 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,137 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,315 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,316 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,345 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,426 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,605 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,606 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,651 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,701 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,879 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,881 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,926 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:21,978 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,164 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,165 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,199 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,263 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,474 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,475 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,477 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,556 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,745 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,746 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,772 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:22,842 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,033 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,034 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,045 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,118 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,320 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,321 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,425 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,426 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,700 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,701 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,702 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,703 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,966 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,968 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:23,969 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,033 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,253 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,254 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,255 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,322 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,547 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,548 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,549 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,611 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,845 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,847 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,848 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:24,901 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,124 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,125 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,126 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,184 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,420 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,421 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,423 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,465 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,705 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,706 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,707 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:25,755 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,017 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,018 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,019 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,062 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,301 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,303 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,305 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,342 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,620 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,621 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,622 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,643 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,904 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,906 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,907 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:26,908 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,176 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,177 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,178 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,180 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,496 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,496 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,498 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,499 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,838 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,839 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,839 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:27,841 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,126 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,128 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,130 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,131 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,434 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,435 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,436 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,437 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,754 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,756 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,758 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:28,760 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,055 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,057 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,058 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,059 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,360 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,362 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,363 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,365 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,650 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,651 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,653 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,653 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,969 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,970 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,972 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:29,973 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,284 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,285 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,286 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,287 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,564 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,566 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,568 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,569 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,949 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,950 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,951 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:30,953 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,263 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,264 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,266 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,267 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,564 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,564 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,564 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,564 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,899 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,901 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,902 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:44:31,903 - root - ERROR - Error in training batch: 'MolecularGraphNetwork' object has no attribute 'bert'
+2024-12-12 13:46:49,586 - root - INFO - Loading datasets...
+2024-12-12 13:46:53,852 - root - INFO - Data loaded successfully:
+2024-12-12 13:46:53,852 - root - INFO - Number of node features: 12
+2024-12-12 13:46:53,852 - root - INFO - Number of edge features: 5
+2024-12-12 13:46:53,852 - root - INFO - Number of node types: 13
+2024-12-12 13:46:53,852 - root - INFO - Number of edge types: 5
+2024-12-12 13:46:53,852 - root - INFO - Creating dataloaders...
+2024-12-12 13:46:53,853 - root - INFO - Created train loader with 640000 samples
+2024-12-12 13:46:53,853 - root - INFO - Created val loader with 80000 samples
+2024-12-12 13:46:53,853 - root - INFO - Created test loader with 80000 samples
+2024-12-12 13:46:53,853 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-12 13:46:53,853 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-12 13:46:53,853 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-12 13:46:53,853 - root - INFO - Dataloaders created successfully
+2024-12-12 13:46:53,854 - root - ERROR - Error in main execution: MolecularGraphNetwork.__init__() missing 8 required positional arguments: 'hidden_dim', 'num_layers', 'num_heads', 'dropout', 'num_classes', 'num_node_types', 'num_edge_types', and 'processing_steps'
+2024-12-12 13:46:53,854 - root - INFO - Training session ended.
+2024-12-12 13:47:22,085 - root - INFO - Loading datasets...
+2024-12-12 13:47:26,045 - root - INFO - Data loaded successfully:
+2024-12-12 13:47:26,045 - root - INFO - Number of node features: 12
+2024-12-12 13:47:26,045 - root - INFO - Number of edge features: 5
+2024-12-12 13:47:26,045 - root - INFO - Number of node types: 13
+2024-12-12 13:47:26,045 - root - INFO - Number of edge types: 5
+2024-12-12 13:47:26,045 - root - INFO - Creating dataloaders...
+2024-12-12 13:47:26,045 - root - INFO - Created train loader with 640000 samples
+2024-12-12 13:47:26,045 - root - INFO - Created val loader with 80000 samples
+2024-12-12 13:47:26,045 - root - INFO - Created test loader with 80000 samples
+2024-12-12 13:47:26,045 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-12 13:47:26,045 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-12 13:47:26,046 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-12 13:47:26,046 - root - INFO - Dataloaders created successfully
+2024-12-12 14:03:35,873 - root - INFO - 
+Evaluating on test dataset...
+2024-12-12 14:04:46,736 - root - INFO - Results for test:
+2024-12-12 14:04:46,737 - root - INFO - Loss: 0.1488
+2024-12-12 14:04:46,737 - root - INFO - test Accuracy: 0.9411, Precision: 0.9188, Recall: 0.9677, F1: 0.9426, ROC-AUC: 0.9882, Sensitivity: 0.9677, Specificity: 0.9144, MSE: 0.0413, MAE: 0.0827, RMSE: 0.2032, R2: 0.8349
+2024-12-12 14:04:46,737 - root - INFO - 
+Evaluating on ts1 dataset...
+2024-12-12 14:05:06,680 - root - INFO - Results for ts1:
+2024-12-12 14:05:06,680 - root - INFO - Loss: 0.0315
+2024-12-12 14:05:06,680 - root - INFO - ts1 Accuracy: 0.9919, Precision: 0.9841, Recall: 1.0000, F1: 0.9920, ROC-AUC: 0.9999, Sensitivity: 1.0000, Specificity: 0.9838, MSE: 0.0074, MAE: 0.0230, RMSE: 0.0858, R2: 0.9706
+2024-12-12 14:05:06,680 - root - INFO - 
+Evaluating on ts2 dataset...
+2024-12-12 14:05:43,530 - root - INFO - Results for ts2:
+2024-12-12 14:05:43,531 - root - INFO - Loss: 0.5565
+2024-12-12 14:05:43,531 - root - INFO - ts2 Accuracy: 0.7725, Precision: 0.6938, Recall: 0.8395, F1: 0.7597, ROC-AUC: 0.8724, Sensitivity: 0.8395, Specificity: 0.7224, MSE: 0.1571, MAE: 0.2719, RMSE: 0.3964, R2: 0.3584
+2024-12-12 14:05:43,531 - root - INFO - 
+Evaluating on ts3 dataset...
+2024-12-12 14:06:01,852 - root - INFO - Results for ts3:
+2024-12-12 14:06:01,852 - root - INFO - Loss: 1.1827
+2024-12-12 14:06:01,852 - root - INFO - ts3 Accuracy: 0.7344, Precision: 0.7573, Recall: 0.6900, F1: 0.7221, ROC-AUC: 0.7999, Sensitivity: 0.6900, Specificity: 0.7789, MSE: 0.1983, MAE: 0.3103, RMSE: 0.4453, R2: 0.2069
+2024-12-12 14:06:04,511 - root - INFO - 
+Training complete. Results saved in results\run_20241212_134722
+2024-12-12 14:06:04,511 - root - INFO - Training session ended.
+2024-12-12 14:30:49,612 - root - INFO - Loading datasets...
+2024-12-12 14:30:49,613 - root - ERROR - Error in main execution: [Errno 2] No such file or directory: '/data4t/Qahtan/GTSA/data/dataset.csv'
+2024-12-12 14:30:49,635 - root - INFO - Training session ended.
+2024-12-12 14:31:13,866 - root - INFO - Loading datasets...
+2024-12-12 14:31:15,147 - root - INFO - Data loaded successfully:
+2024-12-12 14:31:15,147 - root - INFO - Number of node features: 12
+2024-12-12 14:31:15,147 - root - INFO - Number of edge features: 5
+2024-12-12 14:31:15,148 - root - INFO - Number of node types: 13
+2024-12-12 14:31:15,148 - root - INFO - Number of edge types: 5
+2024-12-12 14:31:15,148 - root - INFO - Creating dataloaders...
+2024-12-12 14:31:15,148 - root - INFO - Created train loader with 640000 samples
+2024-12-12 14:31:15,148 - root - INFO - Created val loader with 80000 samples
+2024-12-12 14:31:15,148 - root - INFO - Created test loader with 80000 samples
+2024-12-12 14:31:15,148 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-12 14:31:15,148 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-12 14:31:15,148 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-12 14:31:15,148 - root - INFO - Dataloaders created successfully
+2024-12-14 14:56:38,993 - root - INFO - Loading datasets...
+2024-12-14 14:56:40,282 - root - INFO - Data loaded successfully:
+2024-12-14 14:56:40,282 - root - INFO - Number of node features: 12
+2024-12-14 14:56:40,282 - root - INFO - Number of edge features: 5
+2024-12-14 14:56:40,282 - root - INFO - Number of node types: 13
+2024-12-14 14:56:40,282 - root - INFO - Number of edge types: 5
+2024-12-14 14:56:40,282 - root - INFO - Creating dataloaders...
+2024-12-14 14:56:40,282 - root - INFO - Created train loader with 640000 samples
+2024-12-14 14:56:40,282 - root - INFO - Created val loader with 80000 samples
+2024-12-14 14:56:40,282 - root - INFO - Created test loader with 80000 samples
+2024-12-14 14:56:40,282 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 14:56:40,282 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 14:56:40,282 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 14:56:40,282 - root - INFO - Dataloaders created successfully
+2024-12-14 14:56:57,158 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,159 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,160 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,209 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,381 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,403 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,404 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,424 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,603 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,624 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,625 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,647 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,819 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,822 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,823 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:57,868 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,055 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,057 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,060 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,104 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,282 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,284 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,285 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,338 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,525 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,526 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,527 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,595 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,742 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,743 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,744 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,825 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,992 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,993 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:58,994 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,054 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,234 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,236 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,238 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,309 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,451 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,452 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,453 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,535 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,676 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,677 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,678 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,779 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,953 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,954 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:56:59,956 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,059 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,183 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,184 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,185 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,325 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,428 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,429 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,430 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,607 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,685 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,686 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,687 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,876 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,925 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,927 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:00,928 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,127 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,144 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,170 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,171 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,372 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,397 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,437 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,439 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,620 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,638 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,672 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,674 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,839 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,871 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,904 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:01,905 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:02,077 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:02,115 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:02,181 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:57:02,183 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:40,779 - root - INFO - Loading datasets...
+2024-12-14 14:59:42,008 - root - INFO - Data loaded successfully:
+2024-12-14 14:59:42,008 - root - INFO - Number of node features: 12
+2024-12-14 14:59:42,008 - root - INFO - Number of edge features: 5
+2024-12-14 14:59:42,008 - root - INFO - Number of node types: 13
+2024-12-14 14:59:42,008 - root - INFO - Number of edge types: 5
+2024-12-14 14:59:42,008 - root - INFO - Creating dataloaders...
+2024-12-14 14:59:42,008 - root - INFO - Created train loader with 640000 samples
+2024-12-14 14:59:42,008 - root - INFO - Created val loader with 80000 samples
+2024-12-14 14:59:42,008 - root - INFO - Created test loader with 80000 samples
+2024-12-14 14:59:42,008 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 14:59:42,008 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 14:59:42,008 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 14:59:42,009 - root - INFO - Dataloaders created successfully
+2024-12-14 14:59:58,699 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,716 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,718 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,752 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,915 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,953 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,955 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:58,978 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,144 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,164 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,165 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,206 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,386 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,387 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,388 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,415 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,629 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,631 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,633 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,634 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,874 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,875 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,876 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 14:59:59,877 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,095 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,097 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,098 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,101 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,343 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,344 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,345 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,346 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,589 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,591 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,592 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,594 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,826 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,827 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,828 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:00,829 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,059 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,061 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,063 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,064 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,304 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,305 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,307 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,308 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,576 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,576 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,577 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,580 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,809 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,811 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,812 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:01,814 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,069 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,071 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,072 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,073 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,334 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,335 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,336 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,337 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,592 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,593 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,594 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,595 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,865 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,866 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,868 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:02,869 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,110 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,111 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,113 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,114 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,381 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,382 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,384 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,386 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,639 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,641 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,642 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:00:03,643 - root - ERROR - Error in training batch: EnhancedMolecularGraphNetwork.forward() missing 1 required positional argument: 'smiles_batch'
+2024-12-14 15:04:59,546 - root - INFO - Loading datasets...
+2024-12-14 15:05:00,783 - root - INFO - Data loaded successfully:
+2024-12-14 15:05:00,783 - root - INFO - Number of node features: 12
+2024-12-14 15:05:00,783 - root - INFO - Number of edge features: 5
+2024-12-14 15:05:00,783 - root - INFO - Number of node types: 13
+2024-12-14 15:05:00,783 - root - INFO - Number of edge types: 5
+2024-12-14 15:05:00,783 - root - INFO - Creating dataloaders...
+2024-12-14 15:05:00,784 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:05:00,784 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:05:00,784 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:05:00,784 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:05:00,784 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:05:00,784 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:05:00,784 - root - INFO - Dataloaders created successfully
+2024-12-14 15:11:25,247 - root - INFO - Loading datasets...
+2024-12-14 15:11:26,628 - root - INFO - Data loaded successfully:
+2024-12-14 15:11:26,628 - root - INFO - Number of node features: 12
+2024-12-14 15:11:26,628 - root - INFO - Number of edge features: 5
+2024-12-14 15:11:26,628 - root - INFO - Number of node types: 13
+2024-12-14 15:11:26,628 - root - INFO - Number of edge types: 5
+2024-12-14 15:11:26,628 - root - INFO - Creating dataloaders...
+2024-12-14 15:11:26,629 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:11:26,629 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:11:26,629 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:11:26,629 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:11:26,629 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:11:26,629 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:11:26,629 - root - INFO - Dataloaders created successfully
+2024-12-14 15:15:45,521 - root - INFO - Loading datasets...
+2024-12-14 15:15:46,752 - root - INFO - Data loaded successfully:
+2024-12-14 15:15:46,752 - root - INFO - Number of node features: 12
+2024-12-14 15:15:46,752 - root - INFO - Number of edge features: 5
+2024-12-14 15:15:46,752 - root - INFO - Number of node types: 13
+2024-12-14 15:15:46,753 - root - INFO - Number of edge types: 5
+2024-12-14 15:15:46,753 - root - INFO - Creating dataloaders...
+2024-12-14 15:15:46,753 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:15:46,753 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:15:46,753 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:15:46,753 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:15:46,753 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:15:46,753 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:15:46,753 - root - INFO - Dataloaders created successfully
+2024-12-14 15:15:46,811 - root - ERROR - Error in main execution: cannot access local variable 'epoch' where it is not associated with a value
+2024-12-14 15:15:46,811 - root - INFO - Training session ended.
+2024-12-14 15:18:49,158 - root - INFO - Loading datasets...
+2024-12-14 15:18:50,403 - root - INFO - Data loaded successfully:
+2024-12-14 15:18:50,403 - root - INFO - Number of node features: 12
+2024-12-14 15:18:50,403 - root - INFO - Number of edge features: 5
+2024-12-14 15:18:50,403 - root - INFO - Number of node types: 13
+2024-12-14 15:18:50,403 - root - INFO - Number of edge types: 5
+2024-12-14 15:18:50,403 - root - INFO - Creating dataloaders...
+2024-12-14 15:18:50,403 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:18:50,404 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:18:50,404 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:18:50,404 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:18:50,404 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:18:50,404 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:18:50,404 - root - INFO - Dataloaders created successfully
+2024-12-14 15:22:41,616 - root - INFO - Loading datasets...
+2024-12-14 15:22:42,854 - root - INFO - Data loaded successfully:
+2024-12-14 15:22:42,854 - root - INFO - Number of node features: 12
+2024-12-14 15:22:42,854 - root - INFO - Number of edge features: 5
+2024-12-14 15:22:42,854 - root - INFO - Number of node types: 13
+2024-12-14 15:22:42,854 - root - INFO - Number of edge types: 5
+2024-12-14 15:22:42,854 - root - INFO - Creating dataloaders...
+2024-12-14 15:22:42,854 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:22:42,855 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:22:42,855 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:22:42,855 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:22:42,855 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:22:42,855 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:22:42,855 - root - INFO - Dataloaders created successfully
+2024-12-14 15:42:54,668 - root - INFO - Loading datasets...
+2024-12-14 15:42:55,906 - root - INFO - Data loaded successfully:
+2024-12-14 15:42:55,906 - root - INFO - Number of node features: 12
+2024-12-14 15:42:55,906 - root - INFO - Number of edge features: 5
+2024-12-14 15:42:55,906 - root - INFO - Number of node types: 13
+2024-12-14 15:42:55,906 - root - INFO - Number of edge types: 5
+2024-12-14 15:42:55,907 - root - INFO - Creating dataloaders...
+2024-12-14 15:42:55,908 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:42:55,908 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:42:55,908 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:42:55,908 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:42:55,909 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:42:55,909 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:42:55,909 - root - INFO - Dataloaders created successfully
+2024-12-14 15:42:55,964 - root - ERROR - Error in main execution: debug_model_forward() missing 1 required positional argument: 'data'
+2024-12-14 15:42:55,964 - root - INFO - Training session ended.
+2024-12-14 15:43:25,757 - root - INFO - Loading datasets...
+2024-12-14 15:43:27,000 - root - INFO - Data loaded successfully:
+2024-12-14 15:43:27,000 - root - INFO - Number of node features: 12
+2024-12-14 15:43:27,000 - root - INFO - Number of edge features: 5
+2024-12-14 15:43:27,000 - root - INFO - Number of node types: 13
+2024-12-14 15:43:27,000 - root - INFO - Number of edge types: 5
+2024-12-14 15:43:27,000 - root - INFO - Creating dataloaders...
+2024-12-14 15:43:27,001 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:43:27,001 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:43:27,001 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:43:27,001 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:43:27,001 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:43:27,001 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:43:27,001 - root - INFO - Dataloaders created successfully
+2024-12-14 15:43:27,054 - root - ERROR - Error in main execution: train_and_evaluate() missing 1 required positional argument: 'data'
+2024-12-14 15:43:27,055 - root - INFO - Training session ended.
+2024-12-14 15:45:27,355 - root - INFO - Loading datasets...
+2024-12-14 15:45:28,670 - root - INFO - Data loaded successfully:
+2024-12-14 15:45:28,670 - root - INFO - Number of node features: 12
+2024-12-14 15:45:28,670 - root - INFO - Number of edge features: 5
+2024-12-14 15:45:28,670 - root - INFO - Number of node types: 13
+2024-12-14 15:45:28,670 - root - INFO - Number of edge types: 5
+2024-12-14 15:45:28,670 - root - INFO - Creating dataloaders...
+2024-12-14 15:45:28,671 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:45:28,671 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:45:28,671 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:45:28,671 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:45:28,672 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:45:28,672 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:45:28,672 - root - INFO - Dataloaders created successfully
+2024-12-14 15:45:28,672 - root - ERROR - Error in main execution: cannot access local variable 'model' where it is not associated with a value
+2024-12-14 15:45:28,672 - root - INFO - Training session ended.
+2024-12-14 15:46:30,787 - root - INFO - Loading datasets...
+2024-12-14 15:46:32,039 - root - INFO - Data loaded successfully:
+2024-12-14 15:46:32,039 - root - INFO - Number of node features: 12
+2024-12-14 15:46:32,039 - root - INFO - Number of edge features: 5
+2024-12-14 15:46:32,039 - root - INFO - Number of node types: 13
+2024-12-14 15:46:32,039 - root - INFO - Number of edge types: 5
+2024-12-14 15:46:32,039 - root - INFO - Creating dataloaders...
+2024-12-14 15:46:32,039 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:46:32,040 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:46:32,040 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:46:32,040 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:46:32,040 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:46:32,040 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:46:32,040 - root - INFO - Dataloaders created successfully
+2024-12-14 15:46:32,040 - root - INFO - Setting up model and training components...
+2024-12-14 15:46:32,097 - root - INFO - Checking SMILES integration...
+2024-12-14 15:46:49,363 - root - WARNING - No SMILES data found in dataloader!
+2024-12-14 15:46:49,363 - root - INFO - Model will operate in graph-only mode
+2024-12-14 15:46:49,363 - root - INFO - Starting training...
+2024-12-14 15:46:49,363 - root - ERROR - Error in main execution: train_and_evaluate() missing 1 required positional argument: 'data'
+2024-12-14 15:46:49,365 - root - INFO - Training session ended.
+2024-12-14 15:48:13,050 - root - INFO - Loading datasets...
+2024-12-14 15:48:14,336 - root - INFO - Data loaded successfully:
+2024-12-14 15:48:14,336 - root - INFO - Number of node features: 12
+2024-12-14 15:48:14,336 - root - INFO - Number of edge features: 5
+2024-12-14 15:48:14,336 - root - INFO - Number of node types: 13
+2024-12-14 15:48:14,336 - root - INFO - Number of edge types: 5
+2024-12-14 15:48:14,336 - root - INFO - Creating dataloaders...
+2024-12-14 15:48:14,336 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:48:14,336 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:48:14,336 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:48:14,337 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:48:14,337 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:48:14,337 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:48:14,337 - root - INFO - Dataloaders created successfully
+2024-12-14 15:48:14,337 - root - INFO - Setting up model and training components...
+2024-12-14 15:48:14,393 - root - INFO - Checking SMILES integration...
+2024-12-14 15:48:31,131 - root - WARNING - No SMILES data found in dataloader!
+2024-12-14 15:48:31,131 - root - INFO - Model will operate in graph-only mode
+2024-12-14 15:48:31,131 - root - INFO - Starting training...
+2024-12-14 15:48:31,131 - root - ERROR - Error in main execution: debug_model_forward() missing 1 required positional argument: 'data'
+2024-12-14 15:48:31,131 - root - INFO - Training session ended.
+2024-12-14 15:48:47,133 - root - INFO - Loading datasets...
+2024-12-14 15:48:48,374 - root - INFO - Data loaded successfully:
+2024-12-14 15:48:48,375 - root - INFO - Number of node features: 12
+2024-12-14 15:48:48,375 - root - INFO - Number of edge features: 5
+2024-12-14 15:48:48,375 - root - INFO - Number of node types: 13
+2024-12-14 15:48:48,375 - root - INFO - Number of edge types: 5
+2024-12-14 15:48:48,375 - root - INFO - Creating dataloaders...
+2024-12-14 15:48:48,376 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:48:48,376 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:48:48,376 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:48:48,376 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:48:48,377 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:48:48,377 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:48:48,377 - root - INFO - Dataloaders created successfully
+2024-12-14 15:48:48,377 - root - INFO - Setting up model and training components...
+2024-12-14 15:48:48,432 - root - INFO - Checking SMILES integration...
+2024-12-14 15:49:05,145 - root - WARNING - No SMILES data found in dataloader!
+2024-12-14 15:49:05,145 - root - INFO - Model will operate in graph-only mode
+2024-12-14 15:49:05,145 - root - INFO - Starting training...
+2024-12-14 15:49:05,145 - root - ERROR - Error in main execution: name 'debug_model' is not defined
+2024-12-14 15:49:05,147 - root - INFO - Training session ended.
+2024-12-14 15:51:49,159 - root - INFO - Loading datasets...
+2024-12-14 15:51:50,540 - root - INFO - Data loaded successfully:
+2024-12-14 15:51:50,540 - root - INFO - Number of node features: 12
+2024-12-14 15:51:50,540 - root - INFO - Number of edge features: 5
+2024-12-14 15:51:50,540 - root - INFO - Number of node types: 13
+2024-12-14 15:51:50,540 - root - INFO - Number of edge types: 5
+2024-12-14 15:51:50,540 - root - INFO - Creating dataloaders...
+2024-12-14 15:51:50,540 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:51:50,540 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:51:50,540 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:51:50,540 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:51:50,541 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:51:50,541 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:51:50,541 - root - INFO - Dataloaders created successfully
+2024-12-14 15:51:50,541 - root - INFO - Setting up model and training components...
+2024-12-14 15:51:50,598 - root - INFO - Checking SMILES integration...
+2024-12-14 15:52:08,964 - root - WARNING - No SMILES data found in dataloader!
+2024-12-14 15:52:08,965 - root - INFO - Model will operate in graph-only mode
+2024-12-14 15:52:08,965 - root - INFO - Starting training...
+2024-12-14 15:52:08,965 - root - ERROR - Error in main execution: check_smiles_usage() missing 1 required positional argument: 'loader'
+2024-12-14 15:52:08,966 - root - INFO - Training session ended.
+2024-12-14 15:54:22,740 - root - INFO - Loading datasets...
+2024-12-14 15:54:23,998 - root - INFO - Data loaded successfully:
+2024-12-14 15:54:23,998 - root - INFO - Number of node features: 12
+2024-12-14 15:54:23,999 - root - INFO - Number of edge features: 5
+2024-12-14 15:54:23,999 - root - INFO - Number of node types: 13
+2024-12-14 15:54:23,999 - root - INFO - Number of edge types: 5
+2024-12-14 15:54:23,999 - root - INFO - Creating dataloaders...
+2024-12-14 15:54:23,999 - root - INFO - Created train loader with 640000 samples
+2024-12-14 15:54:23,999 - root - INFO - Created val loader with 80000 samples
+2024-12-14 15:54:23,999 - root - INFO - Created test loader with 80000 samples
+2024-12-14 15:54:23,999 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-14 15:54:23,999 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-14 15:54:23,999 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-14 15:54:23,999 - root - INFO - Dataloaders created successfully
+2024-12-14 15:54:23,999 - root - INFO - Setting up model and training components...
+2024-12-14 15:54:24,051 - root - INFO - Checking SMILES integration...
+2024-12-14 15:54:40,920 - root - WARNING - No SMILES data found in dataloader!
+2024-12-14 15:54:40,920 - root - INFO - Model will operate in graph-only mode
+2024-12-14 15:54:40,920 - root - INFO - Starting training...
+2024-12-14 15:54:41,607 - root - INFO - SMILES Configuration Status:
+2024-12-14 15:54:41,607 - root - INFO - - Model has SMILES processor: True
+2024-12-14 15:54:41,607 - root - INFO - - Model has cross attention: True
+2024-12-14 15:54:41,607 - root - INFO - - Dataloader has SMILES: False
+2024-12-14 16:11:00,459 - root - INFO - Running final evaluation...
+2024-12-14 16:11:00,460 - root - INFO - 
+Evaluating on test dataset...
+2024-12-14 16:12:05,249 - root - INFO - Results for test:
+2024-12-14 16:12:05,249 - root - INFO - Loss: 0.2606
+2024-12-14 16:12:05,249 - root - INFO - test Accuracy: 0.9151, Precision: 0.8692, Recall: 0.9771, F1: 0.9200, ROC-AUC: 0.9748, Sensitivity: 0.9771, Specificity: 0.8530, MSE: 0.0645, MAE: 0.1156, RMSE: 0.2540, R2: 0.7419
+2024-12-14 16:12:05,249 - root - INFO - 
+Evaluating on ts1 dataset...
+2024-12-14 16:12:23,041 - root - INFO - Results for ts1:
+2024-12-14 16:12:23,041 - root - INFO - Loss: 0.3701
+2024-12-14 16:12:23,041 - root - INFO - ts1 Accuracy: 0.8456, Precision: 0.7640, Recall: 1.0000, F1: 0.8662, ROC-AUC: 1.0000, Sensitivity: 1.0000, Specificity: 0.6911, MSE: 0.1085, MAE: 0.1583, RMSE: 0.3294, R2: 0.5661
+2024-12-14 16:12:23,041 - root - INFO - 
+Evaluating on ts2 dataset...
+2024-12-14 16:12:55,016 - root - INFO - Results for ts2:
+2024-12-14 16:12:55,016 - root - INFO - Loss: 0.3661
+2024-12-14 16:12:55,016 - root - INFO - ts2 Accuracy: 0.8535, Precision: 0.8122, Recall: 0.8558, F1: 0.8335, ROC-AUC: 0.9409, Sensitivity: 0.8558, Specificity: 0.8517, MSE: 0.1018, MAE: 0.1854, RMSE: 0.3190, R2: 0.5844
+2024-12-14 16:12:55,016 - root - INFO - 
+Evaluating on ts3 dataset...
+2024-12-14 16:13:13,256 - root - INFO - Results for ts3:
+2024-12-14 16:13:13,256 - root - INFO - Loss: 1.1651
+2024-12-14 16:13:13,256 - root - INFO - ts3 Accuracy: 0.7806, Precision: 0.8464, Recall: 0.6856, F1: 0.7575, ROC-AUC: 0.8331, Sensitivity: 0.6856, Specificity: 0.8756, MSE: 0.1744, MAE: 0.2670, RMSE: 0.4176, R2: 0.3025
+2024-12-14 16:13:15,778 - root - INFO - 
+Training complete. Results saved in results\run_20241214_155422
+2024-12-14 16:13:15,778 - root - INFO - Training session ended.
+2024-12-15 11:22:58,429 - root - INFO - 
+Starting Fold 1/5
+2024-12-16 11:53:47,443 - root - INFO - Loading datasets...
+2024-12-16 11:53:52,638 - root - ERROR - Error in main execution: Expected 11 values from dataload, got 12
+2024-12-16 11:53:52,640 - root - INFO - Training session ended.
+2024-12-16 11:55:40,763 - root - INFO - Loading datasets...
+2024-12-16 11:55:45,888 - root - INFO - Created train loader with 640000 samples
+2024-12-16 11:55:45,890 - root - INFO - Created val loader with 80000 samples
+2024-12-16 11:55:45,890 - root - INFO - Created test loader with 80000 samples
+2024-12-16 11:55:45,891 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 11:55:45,891 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 11:55:45,892 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 11:55:45,892 - root - INFO - Data loaded successfully:
+2024-12-16 11:55:45,892 - root - INFO - Number of node features: 12
+2024-12-16 11:55:45,892 - root - INFO - Number of edge features: 5
+2024-12-16 11:55:45,892 - root - INFO - Number of node types: 13
+2024-12-16 11:55:45,892 - root - INFO - Number of edge types: 5
+2024-12-16 11:55:45,892 - root - INFO - Creating dataloaders...
+2024-12-16 11:55:45,893 - root - INFO - Created train loader with 640000 samples
+2024-12-16 11:55:45,893 - root - INFO - Created val loader with 80000 samples
+2024-12-16 11:55:45,894 - root - INFO - Created test loader with 80000 samples
+2024-12-16 11:55:45,894 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 11:55:45,895 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 11:55:45,895 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 11:55:45,896 - root - INFO - Dataloaders created successfully
+2024-12-16 11:55:45,896 - root - INFO - Setting up model and training components...
+2024-12-16 11:55:45,896 - root - ERROR - Error in main execution: EnhancedMolecularGraphNetwork.__init__() got an unexpected keyword argument 'smiles_config'
+2024-12-16 11:55:45,897 - root - INFO - Training session ended.
+2024-12-16 11:57:27,551 - root - INFO - Loading datasets...
+2024-12-16 11:57:32,695 - root - INFO - Created train loader with 640000 samples
+2024-12-16 11:57:32,696 - root - INFO - Created val loader with 80000 samples
+2024-12-16 11:57:32,696 - root - INFO - Created test loader with 80000 samples
+2024-12-16 11:57:32,696 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 11:57:32,697 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 11:57:32,697 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 11:57:32,697 - root - INFO - Data loaded successfully:
+2024-12-16 11:57:32,698 - root - INFO - Number of node features: 12
+2024-12-16 11:57:32,698 - root - INFO - Number of edge features: 5
+2024-12-16 11:57:32,698 - root - INFO - Number of node types: 13
+2024-12-16 11:57:32,698 - root - INFO - Number of edge types: 5
+2024-12-16 11:57:32,698 - root - INFO - Creating dataloaders...
+2024-12-16 11:57:32,698 - root - INFO - Created train loader with 640000 samples
+2024-12-16 11:57:32,698 - root - INFO - Created val loader with 80000 samples
+2024-12-16 11:57:32,699 - root - INFO - Created test loader with 80000 samples
+2024-12-16 11:57:32,699 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 11:57:32,699 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 11:57:32,700 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 11:57:32,700 - root - INFO - Dataloaders created successfully
+2024-12-16 11:57:32,701 - root - INFO - Setting up model and training components...
+2024-12-16 11:57:33,024 - root - INFO - Checking SMILES integration...
+2024-12-16 11:58:13,895 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 11:58:13,895 - root - INFO - Model will operate in graph-only mode
+2024-12-16 11:58:13,895 - root - INFO - Starting training...
+2024-12-16 11:58:17,262 - root - INFO - SMILES Configuration Status:
+2024-12-16 11:58:17,262 - root - INFO - - Model has SMILES processor: True
+2024-12-16 11:58:17,262 - root - INFO - - Model has cross attention: True
+2024-12-16 11:58:17,262 - root - INFO - - Dataloader has SMILES: False
+2024-12-16 11:59:57,569 - root - INFO - Loading datasets...
+2024-12-16 12:00:02,788 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:00:02,789 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:00:02,789 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:00:02,790 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:00:02,790 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:00:02,790 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:00:02,791 - root - INFO - Data loaded successfully:
+2024-12-16 12:00:02,791 - root - INFO - Number of node features: 12
+2024-12-16 12:00:02,791 - root - INFO - Number of edge features: 5
+2024-12-16 12:00:02,791 - root - INFO - Number of node types: 13
+2024-12-16 12:00:02,791 - root - INFO - Number of edge types: 5
+2024-12-16 12:00:02,791 - root - INFO - Creating dataloaders...
+2024-12-16 12:00:02,792 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:00:02,792 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:00:02,792 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:00:02,793 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:00:02,793 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:00:02,793 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:00:02,793 - root - INFO - Dataloaders created successfully
+2024-12-16 12:00:02,793 - root - INFO - Setting up model and training components...
+2024-12-16 12:00:03,061 - root - INFO - Checking SMILES integration...
+2024-12-16 12:00:50,096 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 12:00:50,096 - root - INFO - Model will operate in graph-only mode
+2024-12-16 12:00:50,096 - root - INFO - Starting training...
+2024-12-16 12:05:36,781 - root - INFO - Loading datasets...
+2024-12-16 12:05:41,820 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:05:41,821 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:05:41,821 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:05:41,822 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:05:41,822 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:05:41,822 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:05:41,823 - root - INFO - Data loaded successfully:
+2024-12-16 12:05:41,823 - root - INFO - Number of node features: 12
+2024-12-16 12:05:41,823 - root - INFO - Number of edge features: 5
+2024-12-16 12:05:41,823 - root - INFO - Number of node types: 13
+2024-12-16 12:05:41,823 - root - INFO - Number of edge types: 5
+2024-12-16 12:05:41,823 - root - INFO - Creating dataloaders...
+2024-12-16 12:05:41,823 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:05:41,824 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:05:41,824 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:05:41,824 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:05:41,825 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:05:41,825 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:05:41,826 - root - INFO - Dataloaders created successfully
+2024-12-16 12:05:41,826 - root - INFO - Setting up model and training components...
+2024-12-16 12:05:42,026 - root - INFO - Checking SMILES integration...
+2024-12-16 12:06:21,970 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 12:06:21,970 - root - INFO - Model will operate in graph-only mode
+2024-12-16 12:06:21,970 - root - INFO - Starting training...
+2024-12-16 12:07:54,643 - root - INFO - Loading datasets...
+2024-12-16 12:07:59,955 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:07:59,955 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:07:59,956 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:07:59,956 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:07:59,958 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:07:59,958 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:07:59,958 - root - INFO - Data loaded successfully:
+2024-12-16 12:07:59,959 - root - INFO - Number of node features: 12
+2024-12-16 12:07:59,959 - root - INFO - Number of edge features: 5
+2024-12-16 12:07:59,959 - root - INFO - Number of node types: 13
+2024-12-16 12:07:59,960 - root - INFO - Number of edge types: 5
+2024-12-16 12:07:59,960 - root - INFO - Creating dataloaders...
+2024-12-16 12:07:59,960 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:07:59,960 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:07:59,961 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:07:59,962 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:07:59,962 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:07:59,963 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:07:59,963 - root - INFO - Dataloaders created successfully
+2024-12-16 12:07:59,963 - root - INFO - Setting up model and training components...
+2024-12-16 12:08:00,220 - root - INFO - Checking SMILES integration...
+2024-12-16 12:08:47,017 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 12:08:47,017 - root - INFO - Model will operate in graph-only mode
+2024-12-16 12:08:47,017 - root - INFO - Starting training...
+2024-12-16 12:12:04,719 - root - INFO - Loading datasets...
+2024-12-16 12:12:09,741 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:12:09,741 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:12:09,742 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:12:09,742 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:12:09,743 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:12:09,743 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:12:09,743 - root - INFO - Data loaded successfully:
+2024-12-16 12:12:09,743 - root - INFO - Number of node features: 12
+2024-12-16 12:12:09,744 - root - INFO - Number of edge features: 5
+2024-12-16 12:12:09,744 - root - INFO - Number of node types: 13
+2024-12-16 12:12:09,744 - root - INFO - Number of edge types: 5
+2024-12-16 12:12:09,744 - root - INFO - Creating dataloaders...
+2024-12-16 12:12:09,744 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:12:09,744 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:12:09,745 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:12:09,745 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:12:09,745 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:12:09,745 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:12:09,745 - root - INFO - Dataloaders created successfully
+2024-12-16 12:12:09,747 - root - INFO - Setting up model and training components...
+2024-12-16 12:12:09,957 - root - INFO - Checking SMILES integration...
+2024-12-16 12:12:45,472 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 12:12:45,472 - root - INFO - Model will operate in graph-only mode
+2024-12-16 12:12:45,473 - root - INFO - Starting training...
+2024-12-16 12:15:28,052 - root - INFO - Loading datasets...
+2024-12-16 12:15:33,401 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:15:33,402 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:15:33,402 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:15:33,402 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:15:33,403 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:15:33,403 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:15:33,403 - root - INFO - Data loaded successfully:
+2024-12-16 12:15:33,405 - root - INFO - Number of node features: 12
+2024-12-16 12:15:33,405 - root - INFO - Number of edge features: 5
+2024-12-16 12:15:33,405 - root - INFO - Number of node types: 13
+2024-12-16 12:15:33,405 - root - INFO - Number of edge types: 5
+2024-12-16 12:15:33,405 - root - INFO - Creating dataloaders...
+2024-12-16 12:15:33,405 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:15:33,406 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:15:33,406 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:15:33,406 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:15:33,407 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:15:33,407 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:15:33,407 - root - INFO - Dataloaders created successfully
+2024-12-16 12:15:33,407 - root - INFO - Setting up model and training components...
+2024-12-16 12:15:33,640 - root - INFO - Checking SMILES integration...
+2024-12-16 12:16:20,411 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 12:16:20,412 - root - INFO - Model will operate in graph-only mode
+2024-12-16 12:16:20,412 - root - INFO - Starting training...
+2024-12-16 12:23:28,182 - root - INFO - Loading datasets...
+2024-12-16 12:23:33,343 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:23:33,344 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:23:33,345 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:23:33,346 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:23:33,347 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:23:33,347 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:23:33,348 - root - INFO - Data loaded successfully:
+2024-12-16 12:23:33,348 - root - INFO - Number of node features: 12
+2024-12-16 12:23:33,348 - root - INFO - Number of edge features: 5
+2024-12-16 12:23:33,349 - root - INFO - Number of node types: 13
+2024-12-16 12:23:33,349 - root - INFO - Number of edge types: 5
+2024-12-16 12:23:33,351 - root - INFO - Creating dataloaders...
+2024-12-16 12:23:33,352 - root - INFO - Created train loader with 640000 samples
+2024-12-16 12:23:33,352 - root - INFO - Created val loader with 80000 samples
+2024-12-16 12:23:33,352 - root - INFO - Created test loader with 80000 samples
+2024-12-16 12:23:33,354 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 12:23:33,354 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 12:23:33,355 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 12:23:33,355 - root - INFO - Dataloaders created successfully
+2024-12-16 12:23:33,355 - root - INFO - Setting up model and training components...
+2024-12-16 12:23:33,594 - root - INFO - Checking SMILES integration...
+2024-12-16 12:24:09,287 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 12:24:09,287 - root - INFO - Model will operate in graph-only mode
+2024-12-16 12:24:09,287 - root - INFO - Starting training...
+2024-12-16 12:58:33,660 - root - INFO - Running final evaluation...
+2024-12-16 12:58:33,662 - root - INFO - 
+Evaluating on test dataset...
+2024-12-16 13:02:08,562 - root - INFO - Results for test:
+2024-12-16 13:02:08,562 - root - INFO - Loss: 0.2187
+2024-12-16 13:02:08,563 - root - INFO - test Accuracy: 0.9263, Precision: 0.8904, Recall: 0.9724, F1: 0.9296, ROC-AUC: 0.9788, Sensitivity: 0.9724, Specificity: 0.8803, MSE: 0.0560, MAE: 0.1085, RMSE: 0.2367, R2: 0.7759
+2024-12-16 13:02:08,563 - root - INFO - 
+Evaluating on ts1 dataset...
+2024-12-16 13:02:48,900 - root - INFO - Results for ts1:
+2024-12-16 13:02:48,900 - root - INFO - Loss: 0.1958
+2024-12-16 13:02:48,900 - root - INFO - ts1 Accuracy: 0.9055, Precision: 0.8410, Recall: 1.0000, F1: 0.9136, ROC-AUC: 1.0000, Sensitivity: 1.0000, Specificity: 0.8109, MSE: 0.0587, MAE: 0.1094, RMSE: 0.2422, R2: 0.7653
+2024-12-16 13:02:48,901 - root - INFO - 
+Evaluating on ts2 dataset...
+2024-12-16 13:03:49,169 - root - INFO - Results for ts2:
+2024-12-16 13:03:49,170 - root - INFO - Loss: 0.3368
+2024-12-16 13:03:49,170 - root - INFO - ts2 Accuracy: 0.8712, Precision: 0.8632, Recall: 0.8309, F1: 0.8468, ROC-AUC: 0.9413, Sensitivity: 0.8309, Specificity: 0.9013, MSE: 0.0933, MAE: 0.1821, RMSE: 0.3055, R2: 0.6190
+2024-12-16 13:03:49,170 - root - INFO - 
+Evaluating on ts3 dataset...
+2024-12-16 13:04:18,647 - root - INFO - Results for ts3:
+2024-12-16 13:04:18,647 - root - INFO - Loss: 1.1965
+2024-12-16 13:04:18,648 - root - INFO - ts3 Accuracy: 0.7756, Precision: 0.8758, Recall: 0.6422, F1: 0.7410, ROC-AUC: 0.8371, Sensitivity: 0.6422, Specificity: 0.9089, MSE: 0.1787, MAE: 0.2715, RMSE: 0.4228, R2: 0.2851
+2024-12-16 13:04:25,386 - root - INFO - 
+Training complete. Results saved in results\run_20241216_122328
+2024-12-16 13:04:25,386 - root - INFO - Training session ended.
+2024-12-16 16:43:26,661 - root - INFO - Loading datasets...
+2024-12-16 16:43:31,446 - root - INFO - Created train loader with 640000 samples
+2024-12-16 16:43:31,447 - root - INFO - Created val loader with 80000 samples
+2024-12-16 16:43:31,447 - root - INFO - Created test loader with 80000 samples
+2024-12-16 16:43:31,447 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 16:43:31,448 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 16:43:31,448 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 16:43:31,449 - root - INFO - Data loaded successfully:
+2024-12-16 16:43:31,449 - root - INFO - Number of node features: 12
+2024-12-16 16:43:31,449 - root - INFO - Number of edge features: 5
+2024-12-16 16:43:31,449 - root - INFO - Number of node types: 13
+2024-12-16 16:43:31,449 - root - INFO - Number of edge types: 5
+2024-12-16 16:43:31,449 - root - INFO - Creating dataloaders...
+2024-12-16 16:43:31,450 - root - INFO - Created train loader with 640000 samples
+2024-12-16 16:43:31,450 - root - INFO - Created val loader with 80000 samples
+2024-12-16 16:43:31,450 - root - INFO - Created test loader with 80000 samples
+2024-12-16 16:43:31,450 - root - INFO - Created ts1 loader with 7162 samples
+2024-12-16 16:43:31,451 - root - INFO - Created ts2 loader with 30348 samples
+2024-12-16 16:43:31,451 - root - INFO - Created ts3 loader with 1800 samples
+2024-12-16 16:43:31,451 - root - INFO - Dataloaders created successfully
+2024-12-16 16:43:31,451 - root - INFO - Setting up model and training components...
+2024-12-16 16:43:31,827 - root - INFO - Checking SMILES integration...
+2024-12-16 16:44:24,812 - root - WARNING - No SMILES data found in dataloader!
+2024-12-16 16:44:24,813 - root - INFO - Model will operate in graph-only mode
+2024-12-16 16:44:24,813 - root - INFO - Starting training...
+2024-12-17 19:40:40,305 - root - INFO - Loading datasets...
+2024-12-17 19:40:46,174 - root - ERROR - Error in main execution: Expected 11 values from dataload, got 12
+2024-12-17 19:40:46,175 - root - INFO - Training session ended.
+2024-12-17 19:43:10,552 - root - INFO - Loading datasets...
+2024-12-17 19:43:16,670 - root - INFO - Data loaded successfully:
+2024-12-17 19:43:16,670 - root - INFO - Number of node features: 12
+2024-12-17 19:43:16,672 - root - INFO - Number of edge features: 5
+2024-12-17 19:43:16,674 - root - INFO - Number of node types: 13
+2024-12-17 19:43:16,674 - root - INFO - Number of edge types: 5
+2024-12-17 19:43:16,675 - root - INFO - Starting k-fold cross-validation...
+2024-12-17 19:43:16,768 - root - INFO - 
+Starting Fold 1/2
+2025-01-13 20:45:46,752 - root - INFO - Loading datasets...
+2025-01-13 20:45:48,342 - root - INFO - Created train loader with 640000 samples
+2025-01-13 20:45:48,342 - root - INFO - Created val loader with 80000 samples
+2025-01-13 20:45:48,342 - root - INFO - Created test loader with 80000 samples
+2025-01-13 20:45:48,342 - root - INFO - Created ts1 loader with 7162 samples
+2025-01-13 20:45:48,342 - root - INFO - Created ts2 loader with 30348 samples
+2025-01-13 20:45:48,342 - root - INFO - Created ts3 loader with 1800 samples
+2025-01-13 20:45:48,342 - root - INFO - Data loaded successfully:
+2025-01-13 20:45:48,342 - root - INFO - Number of node features: 12
+2025-01-13 20:45:48,343 - root - INFO - Number of edge features: 5
+2025-01-13 20:45:48,343 - root - INFO - Number of node types: 13
+2025-01-13 20:45:48,343 - root - INFO - Number of edge types: 5
+2025-01-13 20:45:48,343 - root - INFO - Creating dataloaders...
+2025-01-13 20:45:48,343 - root - INFO - Created train loader with 640000 samples
+2025-01-13 20:45:48,343 - root - INFO - Created val loader with 80000 samples
+2025-01-13 20:45:48,343 - root - INFO - Created test loader with 80000 samples
+2025-01-13 20:45:48,343 - root - INFO - Created ts1 loader with 7162 samples
+2025-01-13 20:45:48,343 - root - INFO - Created ts2 loader with 30348 samples
+2025-01-13 20:45:48,343 - root - INFO - Created ts3 loader with 1800 samples
+2025-01-13 20:45:48,343 - root - INFO - Dataloaders created successfully
+2025-01-13 20:45:48,343 - root - INFO - Setting up model and training components...
+2025-01-13 20:45:48,426 - root - INFO - Checking SMILES integration...
+2025-01-20 23:36:27,056 - root - INFO - Loading datasets...
+2025-01-20 23:36:32,794 - root - INFO - Created train loader with 640000 samples
+2025-01-20 23:36:32,794 - root - INFO - Created val loader with 80000 samples
+2025-01-20 23:36:32,794 - root - INFO - Created test loader with 80000 samples
+2025-01-20 23:36:32,795 - root - INFO - Created ts1 loader with 7162 samples
+2025-01-20 23:36:32,795 - root - INFO - Created ts2 loader with 30348 samples
+2025-01-20 23:36:32,795 - root - INFO - Created ts3 loader with 1800 samples
+2025-01-20 23:36:32,796 - root - INFO - Data loaded successfully:
+2025-01-20 23:36:32,796 - root - INFO - Number of node features: 12
+2025-01-20 23:36:32,796 - root - INFO - Number of edge features: 5
+2025-01-20 23:36:32,796 - root - INFO - Number of node types: 13
+2025-01-20 23:36:32,797 - root - INFO - Number of edge types: 5
+2025-01-20 23:36:32,797 - root - INFO - Creating dataloaders...
+2025-01-20 23:36:32,797 - root - INFO - Created train loader with 640000 samples
+2025-01-20 23:36:32,797 - root - INFO - Created val loader with 80000 samples
+2025-01-20 23:36:32,797 - root - INFO - Created test loader with 80000 samples
+2025-01-20 23:36:32,799 - root - INFO - Created ts1 loader with 7162 samples
+2025-01-20 23:36:32,799 - root - INFO - Created ts2 loader with 30348 samples
+2025-01-20 23:36:32,799 - root - INFO - Created ts3 loader with 1800 samples
+2025-01-20 23:36:32,799 - root - INFO - Dataloaders created successfully
+2025-01-20 23:36:32,799 - root - INFO - Setting up model and training components...
+2025-01-20 23:36:33,074 - root - INFO - Checking SMILES integration...
+2025-01-20 23:37:06,764 - root - WARNING - No SMILES data found in dataloader!
+2025-01-20 23:37:06,764 - root - INFO - Model will operate in graph-only mode
+2025-01-20 23:37:06,764 - root - INFO - Starting training...
+2025-03-10 22:04:38,212 - root - INFO - Loading datasets...
+2025-03-10 22:04:39,992 - root - INFO - Created train loader with 640000 samples
+2025-03-10 22:04:39,993 - root - INFO - Created val loader with 80000 samples
+2025-03-10 22:04:39,993 - root - INFO - Created test loader with 80000 samples
+2025-03-10 22:04:39,993 - root - INFO - Created ts1 loader with 7162 samples
+2025-03-10 22:04:39,993 - root - INFO - Created ts2 loader with 30348 samples
+2025-03-10 22:04:39,993 - root - INFO - Created ts3 loader with 1800 samples
+2025-03-10 22:04:39,993 - root - INFO - Data loaded successfully:
+2025-03-10 22:04:39,993 - root - INFO - Number of node features: 12
+2025-03-10 22:04:39,993 - root - INFO - Number of edge features: 5
+2025-03-10 22:04:39,993 - root - INFO - Number of node types: 13
+2025-03-10 22:04:39,993 - root - INFO - Number of edge types: 5
+2025-03-10 22:04:39,993 - root - INFO - Creating dataloaders...
+2025-03-10 22:04:39,993 - root - INFO - Created train loader with 640000 samples
+2025-03-10 22:04:39,993 - root - INFO - Created val loader with 80000 samples
+2025-03-10 22:04:39,993 - root - INFO - Created test loader with 80000 samples
+2025-03-10 22:04:39,993 - root - INFO - Created ts1 loader with 7162 samples
+2025-03-10 22:04:39,993 - root - INFO - Created ts2 loader with 30348 samples
+2025-03-10 22:04:39,994 - root - INFO - Created ts3 loader with 1800 samples
+2025-03-10 22:04:39,994 - root - INFO - Dataloaders created successfully
+2025-03-10 22:04:39,994 - root - INFO - Setting up model and training components...
+2025-03-10 22:04:40,157 - root - INFO - Checking SMILES integration...
+2025-03-10 22:05:12,354 - root - WARNING - No SMILES data found in dataloader!
+2025-03-10 22:05:12,354 - root - INFO - Model will operate in graph-only mode
+2025-03-10 22:05:12,354 - root - INFO - Starting training...
+2025-03-10 22:15:33,493 - root - INFO - Running final evaluation...
+2025-03-10 22:15:33,494 - root - INFO - 
+Evaluating on test dataset...
+2025-03-10 22:16:47,746 - root - INFO - Results for test:
+2025-03-10 22:16:47,746 - root - INFO - Loss: 0.2174
+2025-03-10 22:16:47,746 - root - INFO - test Accuracy: 0.9226, Precision: 0.9263, Recall: 0.9182, F1: 0.9222, ROC-AUC: 0.9767, PR-AUC: 0.9742, Sensitivity: 0.9182, Specificity: 0.9270, MSE: 0.0573, MAE: 0.1231, RMSE: 0.2393, R2: 0.7710
+2025-03-10 22:16:47,746 - root - INFO - 
+Evaluating on ts1 dataset...
+2025-03-10 22:17:20,218 - root - INFO - Results for ts1:
+2025-03-10 22:17:20,219 - root - INFO - Loss: 0.0881
+2025-03-10 22:17:20,219 - root - INFO - ts1 Accuracy: 0.9784, Precision: 0.9585, Recall: 1.0000, F1: 0.9788, ROC-AUC: 0.9999, PR-AUC: 0.9999, Sensitivity: 1.0000, Specificity: 0.9567, MSE: 0.0198, MAE: 0.0613, RMSE: 0.1408, R2: 0.9206
+2025-03-10 22:17:20,219 - root - INFO - 
+Evaluating on ts2 dataset...
+2025-03-10 22:18:06,281 - root - INFO - Results for ts2:
+2025-03-10 22:18:06,281 - root - INFO - Loss: 0.3443
+2025-03-10 22:18:06,281 - root - INFO - ts2 Accuracy: 0.8820, Precision: 0.8830, Recall: 0.8353, F1: 0.8585, ROC-AUC: 0.9495, PR-AUC: 0.9475, Sensitivity: 0.8353, Specificity: 0.9171, MSE: 0.0898, MAE: 0.1430, RMSE: 0.2996, R2: 0.6335
+2025-03-10 22:18:06,281 - root - INFO - 
+Evaluating on ts3 dataset...
+2025-03-10 22:18:37,816 - root - INFO - Results for ts3:
+2025-03-10 22:18:37,816 - root - INFO - Loss: 1.0462
+2025-03-10 22:18:37,816 - root - INFO - ts3 Accuracy: 0.8100, Precision: 0.9486, Recall: 0.6556, F1: 0.7753, ROC-AUC: 0.9009, PR-AUC: 0.9207, Sensitivity: 0.6556, Specificity: 0.9644, MSE: 0.1493, MAE: 0.2280, RMSE: 0.3864, R2: 0.4028
+2025-03-10 22:18:39,726 - root - INFO - 
+Training complete. Results saved in results\run_20250310_220438
+2025-03-10 22:18:39,726 - root - INFO - Training session ended.
+2025-03-10 23:20:22,699 - root - INFO - Loading datasets...
+2025-03-10 23:20:24,036 - root - INFO - Created train loader with 640000 samples
+2025-03-10 23:20:24,036 - root - INFO - Created val loader with 80000 samples
+2025-03-10 23:20:24,036 - root - INFO - Created test loader with 80000 samples
+2025-03-10 23:20:24,036 - root - INFO - Created ts1 loader with 7162 samples
+2025-03-10 23:20:24,036 - root - INFO - Created ts2 loader with 30348 samples
+2025-03-10 23:20:24,036 - root - INFO - Created ts3 loader with 1800 samples
+2025-03-10 23:20:24,036 - root - INFO - Data loaded successfully:
+2025-03-10 23:20:24,036 - root - INFO - Number of node features: 12
+2025-03-10 23:20:24,036 - root - INFO - Number of edge features: 5
+2025-03-10 23:20:24,036 - root - INFO - Number of node types: 13
+2025-03-10 23:20:24,036 - root - INFO - Number of edge types: 5
+2025-03-10 23:20:24,036 - root - INFO - Creating dataloaders...
+2025-03-10 23:20:24,036 - root - INFO - Created train loader with 640000 samples
+2025-03-10 23:20:24,036 - root - INFO - Created val loader with 80000 samples
+2025-03-10 23:20:24,036 - root - INFO - Created test loader with 80000 samples
+2025-03-10 23:20:24,036 - root - INFO - Created ts1 loader with 7162 samples
+2025-03-10 23:20:24,036 - root - INFO - Created ts2 loader with 30348 samples
+2025-03-10 23:20:24,036 - root - INFO - Created ts3 loader with 1800 samples
+2025-03-10 23:20:24,036 - root - INFO - Dataloaders created successfully
+2025-03-10 23:20:24,037 - root - INFO - Setting up model and training components...
+2025-03-10 23:20:24,092 - root - INFO - Checking SMILES integration...
+2025-03-10 23:20:48,826 - root - WARNING - No SMILES data found in dataloader!
+2025-03-10 23:20:48,827 - root - INFO - Model will operate in graph-only mode
+2025-03-10 23:20:48,827 - root - INFO - Starting training...
+2025-03-10 23:29:38,196 - root - INFO - Running final evaluation...
+2025-03-10 23:29:38,197 - root - INFO - 
+Evaluating on test dataset...
+2025-03-10 23:30:46,838 - root - INFO - Results for test:
+2025-03-10 23:30:46,838 - root - INFO - Loss: 0.2174
+2025-03-10 23:30:46,838 - root - INFO - test Accuracy: 0.9226, Precision: 0.9263, Recall: 0.9182, F1: 0.9222, ROC-AUC: 0.9767, PR-AUC: 0.9742, Sensitivity: 0.9182, Specificity: 0.9270, MSE: 0.0573, MAE: 0.1231, RMSE: 0.2393, R2: 0.7710
+2025-03-10 23:30:46,838 - root - INFO - 
+Evaluating on ts1 dataset...
+2025-03-10 23:31:13,619 - root - INFO - Results for ts1:
+2025-03-10 23:31:13,619 - root - INFO - Loss: 0.0881
+2025-03-10 23:31:13,619 - root - INFO - ts1 Accuracy: 0.9784, Precision: 0.9585, Recall: 1.0000, F1: 0.9788, ROC-AUC: 0.9999, PR-AUC: 0.9999, Sensitivity: 1.0000, Specificity: 0.9567, MSE: 0.0198, MAE: 0.0613, RMSE: 0.1408, R2: 0.9206
+2025-03-10 23:31:13,619 - root - INFO - 
+Evaluating on ts2 dataset...
+2025-03-10 23:31:54,182 - root - INFO - Results for ts2:
+2025-03-10 23:31:54,182 - root - INFO - Loss: 0.3443
+2025-03-10 23:31:54,182 - root - INFO - ts2 Accuracy: 0.8820, Precision: 0.8830, Recall: 0.8353, F1: 0.8585, ROC-AUC: 0.9495, PR-AUC: 0.9475, Sensitivity: 0.8353, Specificity: 0.9171, MSE: 0.0898, MAE: 0.1430, RMSE: 0.2996, R2: 0.6335
+2025-03-10 23:31:54,182 - root - INFO - 
+Evaluating on ts3 dataset...
+2025-03-10 23:32:23,922 - root - INFO - Results for ts3:
+2025-03-10 23:32:23,922 - root - INFO - Loss: 1.0462
+2025-03-10 23:32:23,922 - root - INFO - ts3 Accuracy: 0.8100, Precision: 0.9486, Recall: 0.6556, F1: 0.7753, ROC-AUC: 0.9009, PR-AUC: 0.9207, Sensitivity: 0.6556, Specificity: 0.9644, MSE: 0.1493, MAE: 0.2280, RMSE: 0.3864, R2: 0.4028
+2025-03-10 23:32:25,776 - root - INFO - 
+Training complete. Results saved in results\run_20250310_232022
+2025-03-10 23:32:25,776 - root - INFO - Training session ended.

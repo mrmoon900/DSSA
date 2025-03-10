@@ -1,0 +1,178 @@
+2024-12-15 07:14:02,460 - INFO - Loading datasets...
+2024-12-15 07:14:05,005 - ERROR - Error in evaluation pipeline: name 'find_latest_model_file' is not defined
+2024-12-15 07:18:38,792 - INFO - Loading datasets...
+2024-12-15 07:18:40,736 - INFO - 
+Evaluating Main Test with threshold 0.5
+2024-12-15 07:37:28,797 - INFO - Loading datasets...
+2024-12-15 07:37:30,470 - ERROR - Error in evaluation pipeline: Error(s) in loading state_dict for EnhancedMolecularGraphNetwork:
+	size mismatch for graph_processor.gat_layers.0.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.0.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.0.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.1.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.1.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.1.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.2.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.2.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.2.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.2.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.3.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.3.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.3.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.3.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.4.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.4.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.4.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.4.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.5.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.5.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.5.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.5.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.layer_norms.0.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.1.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.2.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.2.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.3.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.3.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.4.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.4.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.5.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.5.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.node_type_embedding.weight: copying a param with shape torch.Size([13, 256]) from checkpoint, the shape in current model is torch.Size([13, 128]).
+	size mismatch for graph_processor.global_attention.0.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.global_attention.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.global_attention.2.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1, 128]).
+	size mismatch for smiles_processor.embedding.weight: copying a param with shape torch.Size([36, 256]) from checkpoint, the shape in current model is torch.Size([36, 128]).
+	size mismatch for smiles_processor.pos_encoder.0.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for smiles_processor.pos_encoder.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for smiles_processor.pos_encoder.1.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for smiles_processor.pos_encoder.1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for smiles_processor.gru.weight_ih_l0: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.weight_hh_l0: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l0: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l0: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.weight_ih_l0_reverse: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.weight_hh_l0_reverse: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l0_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l0_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.weight_ih_l1: copying a param with shape torch.Size([768, 512]) from checkpoint, the shape in current model is torch.Size([384, 256]).
+	size mismatch for smiles_processor.gru.weight_hh_l1: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l1: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l1: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.weight_ih_l1_reverse: copying a param with shape torch.Size([768, 512]) from checkpoint, the shape in current model is torch.Size([384, 256]).
+	size mismatch for smiles_processor.gru.weight_hh_l1_reverse: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l1_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l1_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.output_proj.weight: copying a param with shape torch.Size([256, 512]) from checkpoint, the shape in current model is torch.Size([128, 256]).
+	size mismatch for smiles_processor.output_proj.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.attention.in_proj_weight: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for cross_attention.attention.in_proj_bias: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for cross_attention.attention.out_proj.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for cross_attention.attention.out_proj.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm1.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm2.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm2.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.ffn.0.weight: copying a param with shape torch.Size([1024, 256]) from checkpoint, the shape in current model is torch.Size([512, 128]).
+	size mismatch for cross_attention.ffn.0.bias: copying a param with shape torch.Size([1024]) from checkpoint, the shape in current model is torch.Size([512]).
+	size mismatch for cross_attention.ffn.3.weight: copying a param with shape torch.Size([256, 1024]) from checkpoint, the shape in current model is torch.Size([128, 512]).
+	size mismatch for cross_attention.ffn.3.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_classifier.0.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_classifier.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_classifier.3.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1, 128]).
+	size mismatch for combined_classifier.0.weight: copying a param with shape torch.Size([256, 512]) from checkpoint, the shape in current model is torch.Size([128, 256]).
+	size mismatch for combined_classifier.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for combined_classifier.3.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1, 128]).
+2024-12-15 11:11:15,061 - INFO - Loading datasets...
+2024-12-15 11:11:22,309 - ERROR - Error in evaluation pipeline: Error(s) in loading state_dict for EnhancedMolecularGraphNetwork:
+	size mismatch for graph_processor.gat_layers.0.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.0.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.0.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.1.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.1.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.1.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.2.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.2.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.2.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.2.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.3.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.3.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.3.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.3.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.4.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.4.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.4.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.4.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.gat_layers.5.att_src: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.5.att_dst: copying a param with shape torch.Size([1, 8, 32]) from checkpoint, the shape in current model is torch.Size([1, 8, 16]).
+	size mismatch for graph_processor.gat_layers.5.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.gat_layers.5.lin.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.layer_norms.0.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.1.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.2.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.2.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.3.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.3.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.4.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.4.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.5.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.layer_norms.5.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.node_type_embedding.weight: copying a param with shape torch.Size([13, 256]) from checkpoint, the shape in current model is torch.Size([13, 128]).
+	size mismatch for graph_processor.global_attention.0.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_processor.global_attention.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_processor.global_attention.2.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1, 128]).
+	size mismatch for smiles_processor.embedding.weight: copying a param with shape torch.Size([36, 256]) from checkpoint, the shape in current model is torch.Size([36, 128]).
+	size mismatch for smiles_processor.pos_encoder.0.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for smiles_processor.pos_encoder.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for smiles_processor.pos_encoder.1.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for smiles_processor.pos_encoder.1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for smiles_processor.gru.weight_ih_l0: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.weight_hh_l0: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l0: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l0: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.weight_ih_l0_reverse: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.weight_hh_l0_reverse: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l0_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l0_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.weight_ih_l1: copying a param with shape torch.Size([768, 512]) from checkpoint, the shape in current model is torch.Size([384, 256]).
+	size mismatch for smiles_processor.gru.weight_hh_l1: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l1: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l1: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.weight_ih_l1_reverse: copying a param with shape torch.Size([768, 512]) from checkpoint, the shape in current model is torch.Size([384, 256]).
+	size mismatch for smiles_processor.gru.weight_hh_l1_reverse: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for smiles_processor.gru.bias_ih_l1_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.gru.bias_hh_l1_reverse: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for smiles_processor.output_proj.weight: copying a param with shape torch.Size([256, 512]) from checkpoint, the shape in current model is torch.Size([128, 256]).
+	size mismatch for smiles_processor.output_proj.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.attention.in_proj_weight: copying a param with shape torch.Size([768, 256]) from checkpoint, the shape in current model is torch.Size([384, 128]).
+	size mismatch for cross_attention.attention.in_proj_bias: copying a param with shape torch.Size([768]) from checkpoint, the shape in current model is torch.Size([384]).
+	size mismatch for cross_attention.attention.out_proj.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for cross_attention.attention.out_proj.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm1.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm1.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm2.weight: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.norm2.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for cross_attention.ffn.0.weight: copying a param with shape torch.Size([1024, 256]) from checkpoint, the shape in current model is torch.Size([512, 128]).
+	size mismatch for cross_attention.ffn.0.bias: copying a param with shape torch.Size([1024]) from checkpoint, the shape in current model is torch.Size([512]).
+	size mismatch for cross_attention.ffn.3.weight: copying a param with shape torch.Size([256, 1024]) from checkpoint, the shape in current model is torch.Size([128, 512]).
+	size mismatch for cross_attention.ffn.3.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_classifier.0.weight: copying a param with shape torch.Size([256, 256]) from checkpoint, the shape in current model is torch.Size([128, 128]).
+	size mismatch for graph_classifier.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for graph_classifier.3.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1, 128]).
+	size mismatch for combined_classifier.0.weight: copying a param with shape torch.Size([256, 512]) from checkpoint, the shape in current model is torch.Size([128, 256]).
+	size mismatch for combined_classifier.0.bias: copying a param with shape torch.Size([256]) from checkpoint, the shape in current model is torch.Size([128]).
+	size mismatch for combined_classifier.3.weight: copying a param with shape torch.Size([1, 256]) from checkpoint, the shape in current model is torch.Size([1, 128]).
+2024-12-15 11:16:25,959 - INFO - Loading datasets...
+2024-12-15 11:16:32,466 - ERROR - Error in evaluation pipeline: CrossModalTransformer.__init__() got an unexpected keyword argument 'hidden_dim'
+2024-12-15 11:17:56,513 - INFO - Loading datasets...
+2024-12-15 11:18:02,258 - ERROR - Error in evaluation pipeline: CrossModalTransformer.__init__() got an unexpected keyword argument 'hidden_dim'
+2024-12-15 12:25:24,087 - INFO - Loading datasets...
+2024-12-15 12:25:30,472 - INFO - 
+Evaluating Main Test with threshold 0.5
