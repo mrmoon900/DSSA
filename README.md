@@ -21,3 +21,23 @@ This repository contains a comprehensive training module for a graph-based neura
    ```bash
    git clone https://github.com/mrmoon900/DSSA.git
    cd molecular-gnn-training
+
+
+Install dependencies:
+
+bash
+Copy
+pip install -r requirements.txt
+Usage
+To train the model:
+
+bash
+Copy
+python train.py
+To evaluate the model:
+
+bash
+Copy
+python test.py
+License
+This project is licensed under the MIT License. See LICENSE for details.
