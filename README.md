@@ -1,14 +1,17 @@
 
 # DSSA: Dual Stream Synthetic Accessibility Prediction
 
-This repository contains the implementation of a dDual Stream Synthetic Accessibility .
+This repository contains the implementation of a Dual Stream Synthetic Accessibility .
 
-- **DSSA Model**: Implements modle architecture.
+- **DSSA Model**: Implements model architecture.
 - **Data Preprocessing**: Tools for loading and preprocessing molecular datasets.
 - **Training Pipeline**: Includes k-fold cross-validation, early stopping, and learning rate scheduling.
 - **Evaluation Metrics**: Computes accuracy, precision, recall, F1-score, ROC-AUC, and PR-AUC.
 - **Visualization**: Generates ROC curves, precision-recall curves, and confusion matrices.
 - **Hyperparameter Optimization**: Supports Optuna for tuning hyperparameters.
+
+## For the Synthethic accessibility scores of DSSA model please visit http://dssa.denglab.org
+
 
 ## Installation
 
@@ -116,34 +119,7 @@ optuna>=3.0.0
 rdkit>=2022.03.0
 ```
 
----
 
-### **How to Use These Files**
 
-1. **Save the `README.md`**:
-   - Copy the content of the `README.md` above and save it in your project's root directory.
-
-2. **Save the `requirements.txt`**:
-   - Copy the content of the `requirements.txt` above and save it in your project's root directory.
-
-3. **Install Dependencies**:
-   - Run the following command to install the dependencies:
-     ```bash
-     pip install -r requirements.txt
-     ```
-
-4. **Push to GitHub**:
-   - Add, commit, and push the files to your GitHub repository:
-     ```bash
-     git add README.md requirements.txt
-     git commit -m "Add README and requirements file"
-     git push origin main
-     ```
-
----
-
-### **Key Notes**
-- The `requirements.txt` file ensures that users can easily install all necessary dependencies.
-- The `README.md` file provides a clear and concise overview of your project, making it easier for others to understand and use.
 
 Let me know if you need further assistance!
