@@ -1,17 +1,9 @@
-Here’s a refined `README.md` file and a `requirements.txt` file for your project. These files will help users understand your project and set it up easily.
 
----
+# DSSA: Dual Stream Synthetic Accessibility Prediction
 
-### **`README.md`**
+This repository contains the implementation of a dDual Stream Synthetic Accessibility .
 
-```markdown
-# DSSA: Deep Structure-Aware Model for Molecular Property Prediction
-
-This repository contains the implementation of a deep learning model for molecular property prediction using graph neural networks (GNNs). The model leverages graph-based representations of molecules to predict properties such as solubility, toxicity, and binding affinity.
-
-## Features
-
-- **Graph Neural Network Model**: Implements a deep structure-aware model for molecular graphs.
+- **DSSA Model**: Implements modle architecture.
 - **Data Preprocessing**: Tools for loading and preprocessing molecular datasets.
 - **Training Pipeline**: Includes k-fold cross-validation, early stopping, and learning rate scheduling.
 - **Evaluation Metrics**: Computes accuracy, precision, recall, F1-score, ROC-AUC, and PR-AUC.
@@ -100,12 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project uses [PyTorch](https://pytorch.org/) and [PyTorch Geometric](https://pytorch-geometric.readthedocs.io/).
 - Inspired by various works in molecular graph neural networks.
-
 ---
-
-For any questions or issues, please contact [your-email@example.com](mailto:your-email@example.com).
-```
-
 ---
 
 ### **`requirements.txt`**
