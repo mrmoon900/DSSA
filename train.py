@@ -53,7 +53,7 @@ logging.basicConfig(
 
 def parse_args():
     parser = argparse.ArgumentParser(description='GTSA Model Training')
-    parser.add_argument('-n', '--num-epochs', type=int, default=1)
+    parser.add_argument('-n', '--num-epochs', type=int, default=200)
     parser.add_argument('-lr', '--learning-rate', type=float, default=0.001)
     parser.add_argument('-p', '--result-path', type=str, default='results')
     parser.add_argument('-b', '--batch_size', type=int, default=256)
