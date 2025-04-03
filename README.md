@@ -1,5 +1,5 @@
 
-# DSSA: Dual Stream Synthetic Accessibility Prediction
+# DSSA: Dual-Stream Graph-Based Architecture for Predicting the Synthetic Accessibility of Chemical Compounds
 
 This repository contains the implementation of a Dual Stream Synthetic Accessibility .
 
@@ -41,7 +41,7 @@ This repository contains the implementation of a Dual Stream Synthetic Accessibi
 
 To train the model, run:
 ```bash
-python train.py --num-epochs 100 --learning-rate 0.001 --batch-size 256
+python train.py --num-epochs 200 --learning-rate 0.001 --batch-size 256
 ```
 
 ### Hyperparameter Optimization
@@ -55,7 +55,7 @@ python train.py --hp-search
 
 After training, evaluate the model on the test set:
 ```bash
-python test.py
+python model_test.py
 ```
 
 ### Visualizing Results
@@ -63,6 +63,7 @@ python test.py
 The following visualizations are generated and saved in the `results` directory:
 - **Confusion Matrices**
 - **ROC Curves**
+- **PR  Curves**
 - **Precision-Recall Curves**
 - **Target Distribution Plots**
 
@@ -71,21 +72,18 @@ The following visualizations are generated and saved in the `results` directory:
 ```
 DSSA/
 ├── data/                    # Directory for datasets
-├── models/                  # Saved models
 ├── results/                 # Training results and visualizations
 ├── src/                     # Source code
 │   ├── data_preprocess.py   # Data loading and preprocessing
-│   ├── molecular_model.py   # Model definition
+│   ├── DSSA_model.py        # Model definition
 │   ├── train.py             # Training script
-│   └── utils.py             # Utility functions
+│   ├── model_test.py        # Testing model preformance script
+│   ├── score.py             # scores cript
+│   ├── visuslizer.py        # scores visualizer script
 ├── requirements.txt         # Python dependencies
 ├── README.md                # This file
 └── LICENSE                  # License file
 ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
 
 ## License
 
@@ -123,3 +121,4 @@ rdkit>=2022.03.0
 
 
 Let me know if you need further assistance!
+qahtan.shuheep@gmail.com
